@@ -1,0 +1,5 @@
+CL2010_Bud_Flush_rep2	Bud Flush
+CL2010_Bud_Flush_rep3	Bud Flush
+CL2010_Bud_Set_scoring	BudSet Scoring
+CL2010_Bud_Set_scoring	BudSet Scoring
+CL2010_Bud_Set_scoring	Bud
