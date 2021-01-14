@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Ontology Results</title>
+<title>Page Title</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -124,9 +124,10 @@ body {
   }
 }
 </style>
-
 <script>
+
 dataObj = [[]]
+
   $(document).ready(function(){
             $.ajax({
                 url: '{{ url.string }}',
@@ -154,7 +155,7 @@ hot3 = new Handsontable(container3, {
   licenseKey: 'non-commercial-and-evaluation',
   rowHeaders: true,
   columnSorting: true,
-  colWidths: 300,
+  colWidths: 150,
   fillHandle: true,
   colHeaders: false,
 
@@ -175,11 +176,12 @@ hot3 = new Handsontable(container3, {
           var arr= new Array();
 
           $.each(response.response.docs, function(index,value) {
-            arr.push( value.label + " | " + value.iri)
+            arr.push( value.label + " | " + value.iri )
           });
           console.log(arr.length)
             console.log(arr)
             process(arr);
+
         }
       });
     },
@@ -198,11 +200,37 @@ hot3 = new Handsontable(container3, {
           var arr= new Array();
 
           $.each(response.response.docs, function(index,value) {
-            arr.push( value.label + " | " + value.iri)
+            arr.push( value.label + " | " + value.iri )
           });
           console.log(arr.length)
             console.log(arr)
             process(arr);
+
+        }
+      });
+    },
+    strict: false
+  },
+
+  {
+    type: 'autocomplete',
+    source: function (query, process) {
+      $.ajax({
+        url: 'https://www.ebi.ac.uk/ols/api/select',
+        dataType: 'json',
+        data: {
+          q: query
+        },
+        success: function (response) {
+          var arr= new Array();
+
+          $.each(response.response.docs, function(index,value) {
+            arr.push( value.label + " | " + value.iri )
+          });
+          console.log(arr.length)
+            console.log(arr)
+            process(arr);
+
         }
       });
     },
@@ -221,11 +249,90 @@ hot3 = new Handsontable(container3, {
           var arr= new Array();
 
           $.each(response.response.docs, function(index,value) {
-            arr.push( value.label + " | " + value.iri)
+            arr.push( value.label + " | " + value.iri )
           });
           console.log(arr.length)
             console.log(arr)
             process(arr);
+
+        }
+      });
+    },
+    strict: false
+  },
+
+
+  {
+    type: 'autocomplete',
+    source: function (query, process) {
+      $.ajax({
+        url: 'https://www.ebi.ac.uk/ols/api/select',
+        dataType: 'json',
+        data: {
+          q: query
+        },
+        success: function (response) {
+          var arr= new Array();
+
+          $.each(response.response.docs, function(index,value) {
+            arr.push( value.label + " | " + value.iri )
+          });
+          console.log(arr.length)
+            console.log(arr)
+            process(arr);
+
+        }
+      });
+    },
+    strict: false
+  },
+
+
+  {
+    type: 'autocomplete',
+    source: function (query, process) {
+      $.ajax({
+        url: 'https://www.ebi.ac.uk/ols/api/select',
+        dataType: 'json',
+        data: {
+          q: query
+        },
+        success: function (response) {
+          var arr= new Array();
+
+          $.each(response.response.docs, function(index,value) {
+            arr.push( value.label + " | " + value.iri )
+          });
+          console.log(arr.length)
+            console.log(arr)
+            process(arr);
+
+        }
+      });
+    },
+    strict: false
+  },
+
+
+  {
+    type: 'autocomplete',
+    source: function (query, process) {
+      $.ajax({
+        url: 'https://www.ebi.ac.uk/ols/api/select',
+        dataType: 'json',
+        data: {
+          q: query
+        },
+        success: function (response) {
+          var arr= new Array();
+
+          $.each(response.response.docs, function(index,value) {
+            arr.push( value.label + " | " + value.iri )
+          });
+          console.log(arr.length)
+            console.log(arr)
+            process(arr);
+
         }
       });
     },
@@ -254,7 +361,7 @@ button1.addEventListener('click', function() {
     exportPlugin1.downloadFile('csv', {
       bom: false,
       columnDelimiter: ',',
-      colHeaders: ['Term', 'Simplified term', 'Ontology|label', 'Score'],
+      columnHeaders: false,
       exportHiddenColumns: true,
       exportHiddenRows: true,
       fileExtension: 'csv',
@@ -273,7 +380,8 @@ button1.addEventListener('click', function() {
 <body>
 
 <div class="header">
-  <h1>Ontology Annotator</h1> 
+  <h1>Ontology Annotator</h1>
+  
 </div>
 
 <div class="navbar">

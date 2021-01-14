@@ -1,0 +1,60 @@
+Apical dominance	Apical dominance
+Bark chlorophyll content	Bark chlorophyll content
+Bark moisture content	Bark moisture content
+Bark thickness	Bark thickness
+Branch angle	Branch angle
+Branch color	Branch color
+Branch deflection	Branch deflection
+Branch fresh weight	Branch fresh weight
+Branch length	Branch length
+Budflush score	Budflush score
+Budset score	Budset score
+Chlorophyll content	Chlorophyll content
+Coppice D20 (Stem diameter tallest shoot after cutting 20 cm above ground)	Coppice D20 (Stem diameter tallest shoot after cutting 20 cm above ground)
+Coppice DBH	Coppice DBH
+Coppice Height	Coppice Height
+Coppice number of stem sprouts	Coppice number of stem sprouts
+Coppice stem volume	Coppice stem volume
+Crown area	Crown area
+Crown width East west	Crown width East west
+Crown width North South	Crown width North South
+DBH	DBH
+Diameter at 20 cm	Diameter at 20 cm
+Epicormic branching	Epicormic branching
+Glucose release	Glucose release
+Green leaf weight	Green leaf weight
+Height to the highest branch	Height to the highest branch
+Lenticel	Lenticel
+Lignin content	Lignin content
+Longitudinal shrinkage	Longitudinal shrinkage
+Melampsora	Melampsora
+Mite damage	Mite damage
+Number of side branches ##	Number of side branches
+Number of stems	Number of stems
+Petiole length	Petiole length
+Petiole maximum diameter	Petiole maximum diameter
+Petiole minimum diameter	Petiole minimum diameter
+Radial shrinkage	Radial shrinkage
+Rodent damage	Rodent damage
+S/G ratio	S/G ratio
+Slug browsing	Slug browsing
+Stem S/G ratio	Stem S/G ratio
+Stem density	Stem density
+Stem fresh volume	Stem fresh volume
+Stem fresh weight	Stem fresh weight
+Stem glucose release	Stem glucose release
+Stem lignin content	Stem lignin content
+Stem moisture content	Stem moisture content
+Stem specific gravity	Stem specific gravity
+Stem volum to crown area	Stem volum to crown area
+Stem volume	Stem volume
+Stem wound closure	Stem wound closure
+Sugar release	Sugar release
+Sylleptic branching	Sylleptic branching
+Tertiary branching	Tertiary branching
+Tree form (shrub like / tree like)	Tree form (shrub like / tree like)
+Tree height	Tree height
+Venturia #	Venturia
+Xylose release	Xylose release
+stem xylose release	stem xylose release
+sylleptic branching	sylleptic branching

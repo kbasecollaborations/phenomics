@@ -1,0 +1,410 @@
+CO2010_Apical_Dominance_rep1	Apical dominance	1= Apical dominance (AP) | http://www.cropontology.org/rdf/CO_330:0000161/3 | -	0.7333333333333334
+CO2010_Apical_Dominance_rep2	Apical dominance	1= Apical dominance (AP) | http://www.cropontology.org/rdf/CO_330:0000161/3 | -	0.7333333333333334
+CO2010_Apical_Dominance_rep3	Apical dominance	1= Apical dominance (AP) | http://www.cropontology.org/rdf/CO_330:0000161/3 | -	0.7333333333333334
+CL2015_chlorophyll_in_bark	Bark chlorophyll content	chlorophyll content | http://purl.obolibrary.org/obo/TO_0000495 | A pigment content trait (TO:0000494) which is a measure of the chlorophyll a and/or chlorophyll b content in a plant structure (PO:0009011).	0.7857142857142857
+CL2012_Cookie_miosture_content_bark	Bark moisture content	Moisture Content | http://www.cropontology.org/rdf/CO_334:0000407 | Storage root moisture content	0.7857142857142857
+CO2010_Cookies_miosture_content_bark_rep2	Bark moisture content	Moisture Content | http://www.cropontology.org/rdf/CO_334:0000407 | Storage root moisture content	0.7857142857142857
+CA2013_miosture_content_bark_rep1	Bark moisture content	Moisture Content | http://www.cropontology.org/rdf/CO_334:0000407 | Storage root moisture content	0.7857142857142857
+CA2013_miosture_content_bark_rep2	Bark moisture content	Moisture Content | http://www.cropontology.org/rdf/CO_334:0000407 | Storage root moisture content	0.7857142857142857
+CL2012_Cookie_bark_thickness	Bark thickness	Bark thickness | http://www.cropontology.org/rdf/CO_357:1000005 | Thickness of the part of the stem that is external to the wood or xylem, including the vascular cambium	1.0
+CO2010_Cookies_bark_thickness_rep1	Bark thickness	Bark thickness | http://www.cropontology.org/rdf/CO_357:1000005 | Thickness of the part of the stem that is external to the wood or xylem, including the vascular cambium	1.0
+CO2010_Cookies_bark_thickness_rep2	Bark thickness	Bark thickness | http://www.cropontology.org/rdf/CO_357:1000005 | Thickness of the part of the stem that is external to the wood or xylem, including the vascular cambium	1.0
+CA2013_bark_thickness_rep1	Bark thickness	Bark thickness | http://www.cropontology.org/rdf/CO_357:1000005 | Thickness of the part of the stem that is external to the wood or xylem, including the vascular cambium	1.0
+CA2013_bark_thickness_rep2	Bark thickness	Bark thickness | http://www.cropontology.org/rdf/CO_357:1000005 | Thickness of the part of the stem that is external to the wood or xylem, including the vascular cambium	1.0
+CL2012_Branch_Angle_rep1	Branch angle	branch angle | http://purl.obolibrary.org/obo/TO_1000009 | A branch morphology trait (TO:0000740) which is the angle of a branch (PO:0025073).	1.0
+CL2012_Branch_Angle_rep3	Branch angle	branch angle | http://purl.obolibrary.org/obo/TO_1000009 | A branch morphology trait (TO:0000740) which is the angle of a branch (PO:0025073).	1.0
+CA2012_Branch_Angle_rep2	Branch angle	branch angle | http://purl.obolibrary.org/obo/TO_1000009 | A branch morphology trait (TO:0000740) which is the angle of a branch (PO:0025073).	1.0
+CA2012_Branch_Color_rep2	Branch color	branch color | http://purl.obolibrary.org/obo/FLOPO_0007468 | -	1.0
+CA2012_Branch_Deflection_rep2	Branch deflection	magnetic deflection | http://purl.obolibrary.org/obo/MS_1000221 | The deflection of charged particles in a magnetic field due to a force equal to qvxB where q is the particle charge, v its velocity and B the magnetic field. Magnetic deflection of an ion beam is used for m/z separation in a magnetic sector mass spectrometer.	0.6875
+CL2012_Branch_Fresh_Weight_rep1	Branch fresh weight	Fresh weight | http://www.cropontology.org/rdf/CO_360:0000000 | Fresh Weight	0.7142857142857143
+CL2012_Branch_Fresh_Weight_rep3	Branch fresh weight	Fresh weight | http://www.cropontology.org/rdf/CO_360:0000000 | Fresh Weight	0.7142857142857143
+CA2012_Branch_Length_rep2	Branch length	branch length | http://purl.obolibrary.org/obo/MIAPA_0000004 | -	1.0
+CA2012_Horizontal_Branch_Length_rep2	Branch length	branch length | http://purl.obolibrary.org/obo/MIAPA_0000004 | -	1.0
+CA2012_Longest_Side_Branch_Length_rep2	Branch length	branch length | http://purl.obolibrary.org/obo/MIAPA_0000004 | -	1.0
+CL2010_Bud_Flush_rep1	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CL2010_Bud_Flush_rep2	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CL2010_Bud_Flush_rep3	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CL2013_Bud_Flush_rep1	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CL2013_Bud_Flush_rep2	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CL2013_Bud_Flush_rep3	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CO2010_Bud_Flush1_rep1	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CO2010_Bud_Flush2_rep1	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CO2010_Bud_Flush_Aver_rep1	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CO2010_Bud_Flush1_rep2	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CO2010_Bud_Flush2_rep2	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CO2010_Bud_Flush_Aver_rep2	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CO2010_Bud_Flush1_rep3	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CO2010_Bud_Flush2_rep3	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CO2010_Bud_Flush_Aver_rep3	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CO2011_Bud_Break_rep1	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CO2011_Bud_Break_rep2	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CO2011_Bud_Break_rep3	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CO2012_Bud_Flush_rep1	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CO2012_Bud_Flush_rep2	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CO2012_Bud_Flush_rep3	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CO2013_Bud_Flush_3-26_rep1	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CO2013_Bud_Flush_4-01_rep1	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CO2013_Bud_Flush_Aver_rep1	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CO2013_Bud_Flush_3-26_rep2	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CO2013_Bud_Flush_4-01_rep2	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CO2013_Bud_Flush_Aver_rep2	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CO2013_Bud_Flush_3-26_rep3	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CO2013_Bud_Flush_4-01_rep3	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CO2013_Bud_Flush_Aver_rep3	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CA2010_Bud_Flush_4-01_rep1	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CA2010_Bud_Flush_4-22_rep1	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CA2010_Bud_Flush_Average_rep1	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CA2010_Bud_Flush_4-01_rep2	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CA2010_Bud_Flush_4-22_rep2	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CA2010_Bud_Flush_Average_rep2	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CA2010_Bud_Flush_4-01_rep3	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CA2010_Bud_Flush_4-22_rep3	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CA2010_Bud_Flush_Average_rep3	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CA2012_Bud_Flush_4-20_rep1	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CA2012_Bud_Flush_5-1_rep1	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CA2012_Bud_Flush_Aver_rep1	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CA2012_Bud_Flush_4-20_rep2	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CA2012_Bud_Flush_5-1_rep2	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CA2012_Bud_Flush_Aver_rep2	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CA2012_Bud_Flush_4-20_rep3	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CA2012_Bud_Flush_5-1_rep3	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CA2012_Bud_Flush_Aver_rep3	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CA2013_Bud_Flush_3-29_rep1	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CA2013_Bud_Flush_4-12_rep1	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CA2013_Bud_Flush_Aver_rep1	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CA2013_Bud_Flush_3-29_rep2	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CA2013_Bud_Flush_4-12_rep2	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CA2013_Bud_Flush_Aver_rep2	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CA2013_Bud_Flush_3-29_rep3	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CA2013_Bud_Flush_4-12_rep3	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CA2013_Bud_Flush_Aver_rep3	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007 | Assessment of the day when budflush score will be reached for the first time	0.5714285714285714
+CL2010_Bud_Set_score1_rep1	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CL2010_Bud_Set_score2_rep1	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CL2010_Bud_Set_score3_rep1	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CL2010_Bud_Set_Average_rep1	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CL2010_Bud_Set_score1_rep2	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CL2010_Bud_Set_score2_rep2	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CL2010_Bud_Set_score3_rep2	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CL2010_Bud_Set_Average_rep2	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CL2010_Bud_Set_score1_rep3	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CL2010_Bud_Set_score2_rep3	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CL2010_Bud_Set_score3_rep3	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CL2010_Bud_Set_Average_rep3	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CO2009_Bud_Set_rep1	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CO2009_Bud_Set_rep2	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CO2009_Bud_Set_rep3	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CO2010_Bud_Set1_rep1	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CO2010_Bud_Set2_rep1	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CO2010_Bud_Set3_rep1	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CO2010_Bud_Set_Aver_rep1	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CO2010_Bud_Set1_rep2	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CO2010_Bud_Set2_rep2	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CO2010_Bud_Set3_rep2	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CO2010_Bud_Set_Aver_rep2	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CO2010_Bud_Set1_rep3	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CO2010_Bud_Set2_rep3	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CO2010_Bud_Set3_rep3	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CO2010_Bud_Set_Aver_rep3	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CA2010_Bud_Set_9-02_rep1	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CA2010_Bud_Set_9-16_rep1	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CA2010_Bud_Set_10-01_rep1	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CA2010_Bud_Set_Average_rep1	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CA2010_Bud_Set_9-02_rep2	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CA2010_Bud_Set_9-16_rep2	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CA2010_Bud_Set_10-01_rep2	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CA2010_Bud_Set_Average_rep2	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CA2010_Bud_Set_9-02_rep3	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CA2010_Bud_Set_9-16_rep3	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CA2010_Bud_Set_10-01_rep3	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CA2010_Bud_Set_Average_rep3	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009 | Assessment of the date when budset score will be reached for the first time	0.6363636363636364
+CL2012_SPAD_rep1	Chlorophyll content	chlorophyll content | http://purl.obolibrary.org/obo/TO_0000495 | A pigment content trait (TO:0000494) which is a measure of the chlorophyll a and/or chlorophyll b content in a plant structure (PO:0009011).	1.0
+CL2012_SPAD_rep2	Chlorophyll content	chlorophyll content | http://purl.obolibrary.org/obo/TO_0000495 | A pigment content trait (TO:0000494) which is a measure of the chlorophyll a and/or chlorophyll b content in a plant structure (PO:0009011).	1.0
+CA2012_SPAD_rep2	Chlorophyll content	chlorophyll content | http://purl.obolibrary.org/obo/TO_0000495 | A pigment content trait (TO:0000494) which is a measure of the chlorophyll a and/or chlorophyll b content in a plant structure (PO:0009011).	1.0
+CL2012_Coppice_D20_rep1	Coppice D20 (Stem diameter tallest shoot after cutting 20 cm above ground)	D20 | http://purl.enanomapper.org/onto/ENM_9000120 | Percential description of the particle size where it indicates the
+          size at which 20% of the particles is smaller than this size.	0.125
+CL2012_Coppice_D20_rep3	Coppice D20 (Stem diameter tallest shoot after cutting 20 cm above ground)	D20 | http://purl.enanomapper.org/onto/ENM_9000120 | Percential description of the particle size where it indicates the
+          size at which 20% of the particles is smaller than this size.	0.125
+CO2011_Coppice_D20_rep1	Coppice D20 (Stem diameter tallest shoot after cutting 20 cm above ground)	D20 | http://purl.enanomapper.org/onto/ENM_9000120 | Percential description of the particle size where it indicates the
+          size at which 20% of the particles is smaller than this size.	0.125
+CO2011_Coppice_D20_rep2	Coppice D20 (Stem diameter tallest shoot after cutting 20 cm above ground)	D20 | http://purl.enanomapper.org/onto/ENM_9000120 | Percential description of the particle size where it indicates the
+          size at which 20% of the particles is smaller than this size.	0.125
+CO2011_Coppice_D20_rep3	Coppice D20 (Stem diameter tallest shoot after cutting 20 cm above ground)	D20 | http://purl.enanomapper.org/onto/ENM_9000120 | Percential description of the particle size where it indicates the
+          size at which 20% of the particles is smaller than this size.	0.125
+CL2014_Coppice_DBH_rep1	Coppice DBH	Coppice | http://purl.obolibrary.org/obo/GAZ_00483738 | A district of Oldham.	0.5555555555555556
+CL2014_Coppice_DBH_rep3	Coppice DBH	Coppice | http://purl.obolibrary.org/obo/GAZ_00483738 | A district of Oldham.	0.5555555555555556
+CL2012_Coppice_Height_rep1	Coppice Height	height | http://purl.obolibrary.org/obo/PATO_0000119 | A 1-D extent quality inhering in a bearer by virtue of the bearer's vertical dimension of extension.	0.5555555555555556
+CL2012_Coppice_Height_rep3	Coppice Height	height | http://purl.obolibrary.org/obo/PATO_0000119 | A 1-D extent quality inhering in a bearer by virtue of the bearer's vertical dimension of extension.	0.5555555555555556
+CO2011_Coppice_Height_rep1	Coppice Height	height | http://purl.obolibrary.org/obo/PATO_0000119 | A 1-D extent quality inhering in a bearer by virtue of the bearer's vertical dimension of extension.	0.5555555555555556
+CO2011_Coppice_Height_rep2	Coppice Height	height | http://purl.obolibrary.org/obo/PATO_0000119 | A 1-D extent quality inhering in a bearer by virtue of the bearer's vertical dimension of extension.	0.5555555555555556
+CO2011_Coppice_Height_rep3	Coppice Height	height | http://purl.obolibrary.org/obo/PATO_0000119 | A 1-D extent quality inhering in a bearer by virtue of the bearer's vertical dimension of extension.	0.5555555555555556
+CL2012_Coppice_StemCount_rep1	Coppice number of stem sprouts	Coppice | http://purl.obolibrary.org/obo/GAZ_00483738 | A district of Oldham.	0.3571428571428571
+CL2012_Coppice_StemCount_rep3	Coppice number of stem sprouts	Coppice | http://purl.obolibrary.org/obo/GAZ_00483738 | A district of Oldham.	0.3571428571428571
+CO2011_Coppice_No_of_stem_sprouts_rep1	Coppice number of stem sprouts	Coppice | http://purl.obolibrary.org/obo/GAZ_00483738 | A district of Oldham.	0.3571428571428571
+CO2011_Coppice_No_of_stem_sprouts_rep2	Coppice number of stem sprouts	Coppice | http://purl.obolibrary.org/obo/GAZ_00483738 | A district of Oldham.	0.3571428571428571
+CO2011_Coppice_No_of_stem_sprouts_rep3	Coppice number of stem sprouts	Coppice | http://purl.obolibrary.org/obo/GAZ_00483738 | A district of Oldham.	0.3571428571428571
+CL2012_Coppice_StemVolume_rep1	Coppice stem volume	Coppice | http://purl.obolibrary.org/obo/GAZ_00483738 | A district of Oldham.	0.41666666666666663
+CL2012_Coppice_StemVolume_rep3	Coppice stem volume	Coppice | http://purl.obolibrary.org/obo/GAZ_00483738 | A district of Oldham.	0.41666666666666663
+CO2011_Coppice_StemVolume_rep1	Coppice stem volume	Coppice | http://purl.obolibrary.org/obo/GAZ_00483738 | A district of Oldham.	0.41666666666666663
+CO2011_Coppice_StemVolume_rep2	Coppice stem volume	Coppice | http://purl.obolibrary.org/obo/GAZ_00483738 | A district of Oldham.	0.41666666666666663
+CO2011_Coppice_StemVolume_rep3	Coppice stem volume	Coppice | http://purl.obolibrary.org/obo/GAZ_00483738 | A district of Oldham.	0.41666666666666663
+CA2011_Crown_Area_rep1	Crown area	Crown rust severity - Estimation | http://www.cropontology.org/rdf/CO_350:0000515 | Observe relative or absolute area of plant tissue affected by Crown rust and record it. Often severity is represented as a proportion or percentage of plant surface affected.	0.5
+CA2011_Crown_Area_rep2	Crown area	Crown rust severity - Estimation | http://www.cropontology.org/rdf/CO_350:0000515 | Observe relative or absolute area of plant tissue affected by Crown rust and record it. Often severity is represented as a proportion or percentage of plant surface affected.	0.5
+CA2011_Crown_Area_rep3	Crown area	Crown rust severity - Estimation | http://www.cropontology.org/rdf/CO_350:0000515 | Observe relative or absolute area of plant tissue affected by Crown rust and record it. Often severity is represented as a proportion or percentage of plant surface affected.	0.5
+CA2011_Crown_Area_rep4	Crown area	Crown rust severity - Estimation | http://www.cropontology.org/rdf/CO_350:0000515 | Observe relative or absolute area of plant tissue affected by Crown rust and record it. Often severity is represented as a proportion or percentage of plant surface affected.	0.5
+CA2011_CW_EW_rep1	Crown width East west	Crown size | http://www.cropontology.org/rdf/CO_357:1000086 | Footprint or plan area of the crown of a tree expressed as crown width	0.6428571428571428
+CA2011_CW_EW_rep2	Crown width East west	Crown size | http://www.cropontology.org/rdf/CO_357:1000086 | Footprint or plan area of the crown of a tree expressed as crown width	0.6428571428571428
+CA2011_CW_EW_rep3	Crown width East west	Crown size | http://www.cropontology.org/rdf/CO_357:1000086 | Footprint or plan area of the crown of a tree expressed as crown width	0.6428571428571428
+CA2011_CW_EW_rep4	Crown width East west	Crown size | http://www.cropontology.org/rdf/CO_357:1000086 | Footprint or plan area of the crown of a tree expressed as crown width	0.6428571428571428
+CA2011_CW_SN_rep1	Crown width North South	Crown size | http://www.cropontology.org/rdf/CO_357:1000086 | Footprint or plan area of the crown of a tree expressed as crown width	0.5714285714285714
+CA2011_CW_SN_rep2	Crown width North South	Crown size | http://www.cropontology.org/rdf/CO_357:1000086 | Footprint or plan area of the crown of a tree expressed as crown width	0.5714285714285714
+CA2011_CW_SN_rep3	Crown width North South	Crown size | http://www.cropontology.org/rdf/CO_357:1000086 | Footprint or plan area of the crown of a tree expressed as crown width	0.5714285714285714
+CA2011_CW_SN_rep4	Crown width North South	Crown size | http://www.cropontology.org/rdf/CO_357:1000086 | Footprint or plan area of the crown of a tree expressed as crown width	0.5714285714285714
+CL2012_DBH_rep1	DBH	DBH | http://identifiers.org/hgnc/2689 | -	1.0
+CL2012_DBH_rep3	DBH	DBH | http://identifiers.org/hgnc/2689 | -	1.0
+CL2012_NonCoppice_DBH_rep1	DBH	DBH | http://identifiers.org/hgnc/2689 | -	1.0
+CL2012_NonCoppice_DBH_rep2	DBH	DBH | http://identifiers.org/hgnc/2689 | -	1.0
+CL2012_NonCoppice_DBH_rep3	DBH	DBH | http://identifiers.org/hgnc/2689 | -	1.0
+CL2013_NonCoppice_DBH_rep1	DBH	DBH | http://identifiers.org/hgnc/2689 | -	1.0
+CL2013_NonCoppice_DBH_rep2	DBH	DBH | http://identifiers.org/hgnc/2689 | -	1.0
+CL2013_NonCoppice_DBH_rep3	DBH	DBH | http://identifiers.org/hgnc/2689 | -	1.0
+CL2014_NonCoppice_DBH_rep1	DBH	DBH | http://identifiers.org/hgnc/2689 | -	1.0
+CL2014_NonCoppice_DBH_rep2	DBH	DBH | http://identifiers.org/hgnc/2689 | -	1.0
+CL2014_NonCoppice_DBH_rep3	DBH	DBH | http://identifiers.org/hgnc/2689 | -	1.0
+CO2012_DBH_rep1	DBH	DBH | http://identifiers.org/hgnc/2689 | -	1.0
+CO2012_DBH_rep2	DBH	DBH | http://identifiers.org/hgnc/2689 | -	1.0
+CO2012_DBH_rep3	DBH	DBH | http://identifiers.org/hgnc/2689 | -	1.0
+CO2013_DBH_rep1	DBH	DBH | http://identifiers.org/hgnc/2689 | -	1.0
+CO2013_DBH_rep2	DBH	DBH | http://identifiers.org/hgnc/2689 | -	1.0
+CO2013_DBH_rep3	DBH	DBH | http://identifiers.org/hgnc/2689 | -	1.0
+CA2012_DBH_rep1	DBH	DBH | http://identifiers.org/hgnc/2689 | -	1.0
+CA2012_DBH_rep2	DBH	DBH | http://identifiers.org/hgnc/2689 | -	1.0
+CA2012_DBH_rep3	DBH	DBH | http://identifiers.org/hgnc/2689 | -	1.0
+CA2012_DBH_rep4	DBH	DBH | http://identifiers.org/hgnc/2689 | -	1.0
+CO2010_D20_rep1	Diameter at 20 cm	cm | http://www.cropontology.org/rdf/CO_347:0000010 | -	0.18181818181818177
+CO2010_D20_rep2	Diameter at 20 cm	cm | http://www.cropontology.org/rdf/CO_347:0000010 | -	0.18181818181818177
+CO2010_D20_rep3	Diameter at 20 cm	cm | http://www.cropontology.org/rdf/CO_347:0000010 | -	0.18181818181818177
+CO2015_D20_rep1	Diameter at 20 cm	cm | http://www.cropontology.org/rdf/CO_347:0000010 | -	0.18181818181818177
+CO2015_D20_rep2	Diameter at 20 cm	cm | http://www.cropontology.org/rdf/CO_347:0000010 | -	0.18181818181818177
+CA2011_D20_rep1	Diameter at 20 cm	cm | http://www.cropontology.org/rdf/CO_347:0000010 | -	0.18181818181818177
+CA2011_D20_rep2	Diameter at 20 cm	cm | http://www.cropontology.org/rdf/CO_347:0000010 | -	0.18181818181818177
+CA2011_D20_rep3	Diameter at 20 cm	cm | http://www.cropontology.org/rdf/CO_347:0000010 | -	0.18181818181818177
+CA2011_D20_rep4	Diameter at 20 cm	cm | http://www.cropontology.org/rdf/CO_347:0000010 | -	0.18181818181818177
+CL2015_Epicormic_branching	Epicormic branching	Branching | http://www.cropontology.org/rdf/CO_357:1000008 | Assessment of the branches density	0.6153846153846154
+CL2012_BLUPs_Glucose_release	Glucose release	release | http://usefulinc.com/ns/doap#release | -	0.5
+CA2013_Pretreated_Glucose_release	Glucose release	release | http://usefulinc.com/ns/doap#release | -	0.5
+CL2012_Leaf_Green_Weight_rep1	Green leaf weight	Green leaf biomass | http://www.cropontology.org/rdf/CO_345:0000022 | The amount (weight) of green leaves per unit area or plant.	0.5625
+CL2012_Leaf_Green_Weight_rep2	Green leaf weight	Green leaf biomass | http://www.cropontology.org/rdf/CO_345:0000022 | The amount (weight) of green leaves per unit area or plant.	0.5625
+CL2012_HHB_rep1	Height to the highest branch	Plant height highest leaf - Method | http://www.cropontology.org/rdf/CO_339:0000115 | Height of the plant measured from the ground to the tip of the extended foliage at maturity. Mean plant height (cm) of five representative plants from soil surface measured at the end of flowering	0.5263157894736843
+CL2012_HHB_rep3	Height to the highest branch	Plant height highest leaf - Method | http://www.cropontology.org/rdf/CO_339:0000115 | Height of the plant measured from the ground to the tip of the extended foliage at maturity. Mean plant height (cm) of five representative plants from soil surface measured at the end of flowering	0.5263157894736843
+CL2014_NonCoppice_Height_to_live_branch_rep1	Height to the highest branch	Plant height highest leaf - Method | http://www.cropontology.org/rdf/CO_339:0000115 | Height of the plant measured from the ground to the tip of the extended foliage at maturity. Mean plant height (cm) of five representative plants from soil surface measured at the end of flowering	0.5263157894736843
+CL2014_NonCoppice_Height_to_live_branch_rep2	Height to the highest branch	Plant height highest leaf - Method | http://www.cropontology.org/rdf/CO_339:0000115 | Height of the plant measured from the ground to the tip of the extended foliage at maturity. Mean plant height (cm) of five representative plants from soil surface measured at the end of flowering	0.5263157894736843
+CL2014_NonCoppice_Height_to_live_branch_rep3	Height to the highest branch	Plant height highest leaf - Method | http://www.cropontology.org/rdf/CO_339:0000115 | Height of the plant measured from the ground to the tip of the extended foliage at maturity. Mean plant height (cm) of five representative plants from soil surface measured at the end of flowering	0.5263157894736843
+CA2011_Height_to_first_branch_rep1	Height to the highest branch	Plant height highest leaf - Method | http://www.cropontology.org/rdf/CO_339:0000115 | Height of the plant measured from the ground to the tip of the extended foliage at maturity. Mean plant height (cm) of five representative plants from soil surface measured at the end of flowering	0.5263157894736843
+CA2011_Height_to_first_branch_rep2	Height to the highest branch	Plant height highest leaf - Method | http://www.cropontology.org/rdf/CO_339:0000115 | Height of the plant measured from the ground to the tip of the extended foliage at maturity. Mean plant height (cm) of five representative plants from soil surface measured at the end of flowering	0.5263157894736843
+CA2011_Height_to_first_branch_rep3	Height to the highest branch	Plant height highest leaf - Method | http://www.cropontology.org/rdf/CO_339:0000115 | Height of the plant measured from the ground to the tip of the extended foliage at maturity. Mean plant height (cm) of five representative plants from soil surface measured at the end of flowering	0.5263157894736843
+CA2011_Height_to_first_branch_rep4	Height to the highest branch	Plant height highest leaf - Method | http://www.cropontology.org/rdf/CO_339:0000115 | Height of the plant measured from the ground to the tip of the extended foliage at maturity. Mean plant height (cm) of five representative plants from soil surface measured at the end of flowering	0.5263157894736843
+CL2011_Lenticle_rep1	Lenticel	lenticel | http://purl.obolibrary.org/obo/PO_0000031 | A portion of periderm tissue (PO:0005046) characterized by the presence of intercellular spaces between the cells of the phellem (PO:0004003) and phelloderm (PO:0005050)	1.0
+CL2011_Lenticle_rep2	Lenticel	lenticel | http://purl.obolibrary.org/obo/PO_0000031 | A portion of periderm tissue (PO:0005046) characterized by the presence of intercellular spaces between the cells of the phellem (PO:0004003) and phelloderm (PO:0005050)	1.0
+CA2011_Lenticle_rep1	Lenticel	lenticel | http://purl.obolibrary.org/obo/PO_0000031 | A portion of periderm tissue (PO:0005046) characterized by the presence of intercellular spaces between the cells of the phellem (PO:0004003) and phelloderm (PO:0005050)	1.0
+CA2011_Lenticle_rep2	Lenticel	lenticel | http://purl.obolibrary.org/obo/PO_0000031 | A portion of periderm tissue (PO:0005046) characterized by the presence of intercellular spaces between the cells of the phellem (PO:0004003) and phelloderm (PO:0005050)	1.0
+CA2011_Lenticle_rep3	Lenticel	lenticel | http://purl.obolibrary.org/obo/PO_0000031 | A portion of periderm tissue (PO:0005046) characterized by the presence of intercellular spaces between the cells of the phellem (PO:0004003) and phelloderm (PO:0005050)	1.0
+CA2011_Lenticle_rep4	Lenticel	lenticel | http://purl.obolibrary.org/obo/PO_0000031 | A portion of periderm tissue (PO:0005046) characterized by the presence of intercellular spaces between the cells of the phellem (PO:0004003) and phelloderm (PO:0005050)	1.0
+CL2012_BLUPs_Lignin	Lignin content	lignin content | http://purl.obolibrary.org/obo/TO_0000731 | Measures the lignin content in a plant or plant part.	1.0
+CL2012_Cookie_longititudinal_shrinkage	Longitudinal shrinkage	3=No shrinkage after storage | http://www.cropontology.org/rdf/CO_330:0000589/3 | -	0.6666666666666667
+CO2010_Cookies_longititudinal_shrinkage_rep1	Longitudinal shrinkage	3=No shrinkage after storage | http://www.cropontology.org/rdf/CO_330:0000589/3 | -	0.6666666666666667
+CO2010_Cookies_longititudinal_shrinkage_rep2	Longitudinal shrinkage	3=No shrinkage after storage | http://www.cropontology.org/rdf/CO_330:0000589/3 | -	0.6666666666666667
+CA2013_longititudinal_shrinkage_rep1	Longitudinal shrinkage	3=No shrinkage after storage | http://www.cropontology.org/rdf/CO_330:0000589/3 | -	0.6666666666666667
+CA2013_longititudinal_shrinkage_rep2	Longitudinal shrinkage	3=No shrinkage after storage | http://www.cropontology.org/rdf/CO_330:0000589/3 | -	0.6666666666666667
+CL2011_Rust_rep1	Melampsora	Melampsora | http://purl.obolibrary.org/obo/NCBITaxon_5260 | -	1.0
+CL2011_Rust_rep2	Melampsora	Melampsora | http://purl.obolibrary.org/obo/NCBITaxon_5260 | -	1.0
+CL2011_Rust_rep3	Melampsora	Melampsora | http://purl.obolibrary.org/obo/NCBITaxon_5260 | -	1.0
+CL2012_Rust_rep1	Melampsora	Melampsora | http://purl.obolibrary.org/obo/NCBITaxon_5260 | -	1.0
+CL2012_Rust_rep2	Melampsora	Melampsora | http://purl.obolibrary.org/obo/NCBITaxon_5260 | -	1.0
+CL2012_Rust_rep3	Melampsora	Melampsora | http://purl.obolibrary.org/obo/NCBITaxon_5260 | -	1.0
+CL2013_Rust_rep1	Melampsora	Melampsora | http://purl.obolibrary.org/obo/NCBITaxon_5260 | -	1.0
+CL2013_Rust_rep2	Melampsora	Melampsora | http://purl.obolibrary.org/obo/NCBITaxon_5260 | -	1.0
+CL2013_Rust_rep3	Melampsora	Melampsora | http://purl.obolibrary.org/obo/NCBITaxon_5260 | -	1.0
+CL2014_Coppice_Rust_rep1	Melampsora	Melampsora | http://purl.obolibrary.org/obo/NCBITaxon_5260 | -	1.0
+CL2014_Coppice_Rust_rep3	Melampsora	Melampsora | http://purl.obolibrary.org/obo/NCBITaxon_5260 | -	1.0
+CL2014_NonCoppice_Rust_rep1	Melampsora	Melampsora | http://purl.obolibrary.org/obo/NCBITaxon_5260 | -	1.0
+CL2014_NonCoppice_Rust_rep2	Melampsora	Melampsora | http://purl.obolibrary.org/obo/NCBITaxon_5260 | -	1.0
+CL2014_NonCoppice_Rust_rep3	Melampsora	Melampsora | http://purl.obolibrary.org/obo/NCBITaxon_5260 | -	1.0
+CL2009_Rust_rep1	Melampsora	Melampsora | http://purl.obolibrary.org/obo/NCBITaxon_5260 | -	1.0
+CL2009_Rust_rep2	Melampsora	Melampsora | http://purl.obolibrary.org/obo/NCBITaxon_5260 | -	1.0
+CL2009_Rust_rep3	Melampsora	Melampsora | http://purl.obolibrary.org/obo/NCBITaxon_5260 | -	1.0
+CO2015_MiteBronzing_rep1	Mite damage	MITE | http://purl.obolibrary.org/obo/SO_0000338 | A highly repetitive and short (100-500 base pair) transposable element with terminal inverted repeats (TIR) and target site duplication (TSD). MITEs do not encode proteins.	0.5
+CO2015_MiteBronzing_rep2	Mite damage	MITE | http://purl.obolibrary.org/obo/SO_0000338 | A highly repetitive and short (100-500 base pair) transposable element with terminal inverted repeats (TIR) and target site duplication (TSD). MITEs do not encode proteins.	0.5
+CO2015_MiteBronzing_rep3	Mite damage	MITE | http://purl.obolibrary.org/obo/SO_0000338 | A highly repetitive and short (100-500 base pair) transposable element with terminal inverted repeats (TIR) and target site duplication (TSD). MITEs do not encode proteins.	0.5
+CA2012_Number_of_Side_Branches_rep2	Number of side branches ##	branches | http://www.cropontology.org/rdf/CO_340:0000832 | -	0.5
+CO2015_No_of_stems_rep2	Number of stems	Number of stems per plant-computation | http://www.cropontology.org/rdf/CO_343:0010020 | Compute average of the number of stems (vines) per established plants in a plot	0.6470588235294117
+CL2012_Petiole_Length_rep1	Petiole length	Petiole length | http://www.cropontology.org/rdf/CO_366:0000207 | The length of the petiole.	1.0
+CL2012_Petiole_Length_rep2	Petiole length	Petiole length | http://www.cropontology.org/rdf/CO_366:0000207 | The length of the petiole.	1.0
+CL2012_Petiole_Max_Diameter_rep1	Petiole maximum diameter	maximum diameter | http://purl.obolibrary.org/obo/HAO_0002452 | The diameter that is the longest.	0.7692307692307692
+CL2012_Petiole_Max_Diameter_rep2	Petiole maximum diameter	maximum diameter | http://purl.obolibrary.org/obo/HAO_0002452 | The diameter that is the longest.	0.7692307692307692
+CL2012_Petiole_Min_Diameter_rep1	Petiole minimum diameter	minimum diameter | http://purl.obolibrary.org/obo/HAO_0002453 | The diameter that is the shortest.	0.7692307692307692
+CL2012_Petiole_Min_Diameter_rep2	Petiole minimum diameter	minimum diameter | http://purl.obolibrary.org/obo/HAO_0002453 | The diameter that is the shortest.	0.7692307692307692
+CL2012_Cookie_radial_shrinkage	Radial shrinkage	3=No shrinkage after storage | http://www.cropontology.org/rdf/CO_330:0000589/3 | -	0.5882352941176471
+CO2010_Cookies_radial_shrinkage_rep1	Radial shrinkage	3=No shrinkage after storage | http://www.cropontology.org/rdf/CO_330:0000589/3 | -	0.5882352941176471
+CO2010_Cookies_radial_shrinkage_rep2	Radial shrinkage	3=No shrinkage after storage | http://www.cropontology.org/rdf/CO_330:0000589/3 | -	0.5882352941176471
+CA2013_radial_shrinkage_rep1	Radial shrinkage	3=No shrinkage after storage | http://www.cropontology.org/rdf/CO_330:0000589/3 | -	0.5882352941176471
+CA2013_radial_shrinkage_rep2	Radial shrinkage	3=No shrinkage after storage | http://www.cropontology.org/rdf/CO_330:0000589/3 | -	0.5882352941176471
+CL2012_VOLE_rep1	Rodent damage	Rodent damage | http://www.cropontology.org/rdf/CO_321:0000090 | The plant damage caused by rodent.	1.0
+CL2012_VOLE_rep3	Rodent damage	Rodent damage | http://www.cropontology.org/rdf/CO_321:0000090 | The plant damage caused by rodent.	1.0
+CL2012_BLUPs_S/G	S/G ratio	Syringaldehyde/Coniferaldehyde contents | http://www.cropontology.org/rdf/CO_357:1000112 | Ratio between Syringyl (S) and Guaiacyl (G) contents	0.5294117647058824
+CL2015_slug_browsing	Slug browsing	slug | http://www.ontology-of-units-of-measure.org/resource/om-2/slug | -	0.36363636363636365
+CL2012_Stem_Weight-to-Volume_ratio_rep1	Stem density	stem base mass density | http://purl.obolibrary.org/obo/FLOPO_0018880 | -	0.8181818181818181
+CL2012_Stem_Weight-to-Volume_ratio_rep3	Stem density	stem base mass density | http://purl.obolibrary.org/obo/FLOPO_0018880 | -	0.8181818181818181
+CL2012_Stem_Fresh_Volume_rep1	Stem fresh volume	Stem juice volume | http://www.cropontology.org/rdf/CO_324:0000202 | Juice volume extracted from stem.	0.6
+CL2012_Stem_Fresh_Weight_rep1	Stem fresh weight	Fresh weight | http://www.cropontology.org/rdf/CO_360:0000000 | Fresh Weight	0.9090909090909091
+CL2012_Stem_Fresh_Weight_rep3	Stem fresh weight	Fresh weight | http://www.cropontology.org/rdf/CO_360:0000000 | Fresh Weight	0.9090909090909091
+CL2012_Stem_Fresh_Volume_rep3	Stem fresh weight	Fresh weight | http://www.cropontology.org/rdf/CO_360:0000000 | Fresh Weight	0.9090909090909091
+CL2012_Cookie_Glucose_release_rep1	Stem glucose release	Stem Cell Mobilization Therapy | http://purl.obolibrary.org/obo/NCIT_C62604 | Therapy to cause release of stem cells from the bone marrow into the peripheral blood circulation for the purpose of collection.	0.5263157894736843
+CL2012_Cookie_Glucose_release_rep3	Stem glucose release	Stem Cell Mobilization Therapy | http://purl.obolibrary.org/obo/NCIT_C62604 | Therapy to cause release of stem cells from the bone marrow into the peripheral blood circulation for the purpose of collection.	0.5263157894736843
+CL2012_Core_Glucose_release	Stem glucose release	Stem Cell Mobilization Therapy | http://purl.obolibrary.org/obo/NCIT_C62604 | Therapy to cause release of stem cells from the bone marrow into the peripheral blood circulation for the purpose of collection.	0.5263157894736843
+CL2012_Cookie_Lignin_rep1	Stem lignin content	Stem total lignin content | http://www.cropontology.org/rdf/CO_320:0001145 | Total lignin content in the stem	0.9166666666666666
+CL2012_Cookie_Lignin_rep3	Stem lignin content	Stem total lignin content | http://www.cropontology.org/rdf/CO_320:0001145 | Total lignin content in the stem	0.9166666666666666
+CL2012_Core_Lignin	Stem lignin content	Stem total lignin content | http://www.cropontology.org/rdf/CO_320:0001145 | Total lignin content in the stem	0.9166666666666666
+CO2010_Lignin	Stem lignin content	Stem total lignin content | http://www.cropontology.org/rdf/CO_320:0001145 | Total lignin content in the stem	0.9166666666666666
+CA2013_Lignin	Stem lignin content	Stem total lignin content | http://www.cropontology.org/rdf/CO_320:0001145 | Total lignin content in the stem	0.9166666666666666
+CL2012_Cookie_miosture_content_wood	Stem moisture content	Grain moisture content | http://www.cropontology.org/rdf/CO_321:0000012 | Moisture content of grain.	0.8461538461538461
+CO2010_Cookies_miosture_content_wood_rep1	Stem moisture content	Grain moisture content | http://www.cropontology.org/rdf/CO_321:0000012 | Moisture content of grain.	0.8461538461538461
+CO2010_Cookies_miosture_content_bark_rep1	Stem moisture content	Grain moisture content | http://www.cropontology.org/rdf/CO_321:0000012 | Moisture content of grain.	0.8461538461538461
+CO2010_Cookies_miosture_content_wood_rep2	Stem moisture content	Grain moisture content | http://www.cropontology.org/rdf/CO_321:0000012 | Moisture content of grain.	0.8461538461538461
+CA2013_miosture_content_wood_rep1	Stem moisture content	Grain moisture content | http://www.cropontology.org/rdf/CO_321:0000012 | Moisture content of grain.	0.8461538461538461
+CA2013_miosture_content_wood_rep2	Stem moisture content	Grain moisture content | http://www.cropontology.org/rdf/CO_321:0000012 | Moisture content of grain.	0.8461538461538461
+CL2012_Cookie_S/G_rep1	Stem S/G ratio	ratio | http://purl.obolibrary.org/obo/STATO_0000184 | A ratio is a data item which is formed with two numbers r and s is written r/s, where r is the numerator and s is the denominator. The ratio of r to s is equivalent to the quotient r/s. 
+	0.4545454545454546
+CL2012_Cookie_S/G_rep3	Stem S/G ratio	ratio | http://purl.obolibrary.org/obo/STATO_0000184 | A ratio is a data item which is formed with two numbers r and s is written r/s, where r is the numerator and s is the denominator. The ratio of r to s is equivalent to the quotient r/s. 
+	0.4545454545454546
+CL2012_Core_S/G	Stem S/G ratio	ratio | http://purl.obolibrary.org/obo/STATO_0000184 | A ratio is a data item which is formed with two numbers r and s is written r/s, where r is the numerator and s is the denominator. The ratio of r to s is equivalent to the quotient r/s. 
+	0.4545454545454546
+CO2010_S/Gratio	Stem S/G ratio	ratio | http://purl.obolibrary.org/obo/STATO_0000184 | A ratio is a data item which is formed with two numbers r and s is written r/s, where r is the numerator and s is the denominator. The ratio of r to s is equivalent to the quotient r/s. 
+	0.4545454545454546
+CA2013_S/G	Stem S/G ratio	ratio | http://purl.obolibrary.org/obo/STATO_0000184 | A ratio is a data item which is formed with two numbers r and s is written r/s, where r is the numerator and s is the denominator. The ratio of r to s is equivalent to the quotient r/s. 
+	0.4545454545454546
+CL2012_Cookie_specific_gravity	Stem specific gravity	specific gravity | http://semanticscience.org/resource/SIO_001355 | Specific gravity is the ratio of the density of a substance to the density of a reference substance; equivalently, it is the ratio of the mass of a substance to the mass of a reference substance for the same given volume.	0.9285714285714286
+CO2010_Cookies_specific_gravity_rep1	Stem specific gravity	specific gravity | http://semanticscience.org/resource/SIO_001355 | Specific gravity is the ratio of the density of a substance to the density of a reference substance; equivalently, it is the ratio of the mass of a substance to the mass of a reference substance for the same given volume.	0.9285714285714286
+CO2010_Cookies_specific_gravity_rep2	Stem specific gravity	specific gravity | http://semanticscience.org/resource/SIO_001355 | Specific gravity is the ratio of the density of a substance to the density of a reference substance; equivalently, it is the ratio of the mass of a substance to the mass of a reference substance for the same given volume.	0.9285714285714286
+CA2013_specific_gravity_rep1	Stem specific gravity	specific gravity | http://semanticscience.org/resource/SIO_001355 | Specific gravity is the ratio of the density of a substance to the density of a reference substance; equivalently, it is the ratio of the mass of a substance to the mass of a reference substance for the same given volume.	0.9285714285714286
+CA2013_specific_gravity_rep2	Stem specific gravity	specific gravity | http://semanticscience.org/resource/SIO_001355 | Specific gravity is the ratio of the density of a substance to the density of a reference substance; equivalently, it is the ratio of the mass of a substance to the mass of a reference substance for the same given volume.	0.9285714285714286
+CA2011_Stem_Volume_to_Crown_Area_Ratio_rep1	Stem volum to crown area	Pathway ontology | http://purl.obolibrary.org/obo/pw.owl | A controlled vocabulary for annotating gene products to pathways.	0.38888888888888884
+CA2011_Stem_Volume_to_Crown_Area_Ratio_rep2	Stem volum to crown area	Pathway ontology | http://purl.obolibrary.org/obo/pw.owl | A controlled vocabulary for annotating gene products to pathways.	0.38888888888888884
+CA2011_Stem_Volume_to_Crown_Area_Ratio_rep3	Stem volum to crown area	Pathway ontology | http://purl.obolibrary.org/obo/pw.owl | A controlled vocabulary for annotating gene products to pathways.	0.38888888888888884
+CA2011_Stem_Volume_to_Crown_Area_Ratio_rep4	Stem volum to crown area	Pathway ontology | http://purl.obolibrary.org/obo/pw.owl | A controlled vocabulary for annotating gene products to pathways.	0.38888888888888884
+CL2012_NonCoppice_StemVolume_rep1	Stem volume	Stem juice volume | http://www.cropontology.org/rdf/CO_324:0000202 | Juice volume extracted from stem.	0.75
+CL2012_NonCoppice_StemVolume_rep2	Stem volume	Stem juice volume | http://www.cropontology.org/rdf/CO_324:0000202 | Juice volume extracted from stem.	0.75
+CL2012_NonCoppice_StemVolume_rep3	Stem volume	Stem juice volume | http://www.cropontology.org/rdf/CO_324:0000202 | Juice volume extracted from stem.	0.75
+CL2013_NonCoppice_StemVolume_rep1	Stem volume	Stem juice volume | http://www.cropontology.org/rdf/CO_324:0000202 | Juice volume extracted from stem.	0.75
+CL2013_NonCoppice_StemVolume_rep2	Stem volume	Stem juice volume | http://www.cropontology.org/rdf/CO_324:0000202 | Juice volume extracted from stem.	0.75
+CL2013_NonCoppice_StemVolume_rep3	Stem volume	Stem juice volume | http://www.cropontology.org/rdf/CO_324:0000202 | Juice volume extracted from stem.	0.75
+CO2010_Stem_Volume_rep1	Stem volume	Stem juice volume | http://www.cropontology.org/rdf/CO_324:0000202 | Juice volume extracted from stem.	0.75
+CO2010_Stem_Volume_rep2	Stem volume	Stem juice volume | http://www.cropontology.org/rdf/CO_324:0000202 | Juice volume extracted from stem.	0.75
+CO2010_Stem_Volume_rep3	Stem volume	Stem juice volume | http://www.cropontology.org/rdf/CO_324:0000202 | Juice volume extracted from stem.	0.75
+CO2012_Stem_Vol_rep1	Stem volume	Stem juice volume | http://www.cropontology.org/rdf/CO_324:0000202 | Juice volume extracted from stem.	0.75
+CO2012_Stem_Vol_rep2	Stem volume	Stem juice volume | http://www.cropontology.org/rdf/CO_324:0000202 | Juice volume extracted from stem.	0.75
+CO2012_Stem_Vol_rep3	Stem volume	Stem juice volume | http://www.cropontology.org/rdf/CO_324:0000202 | Juice volume extracted from stem.	0.75
+CO2013_Stem_Vol_rep1	Stem volume	Stem juice volume | http://www.cropontology.org/rdf/CO_324:0000202 | Juice volume extracted from stem.	0.75
+CO2013_Stem_Vol_rep2	Stem volume	Stem juice volume | http://www.cropontology.org/rdf/CO_324:0000202 | Juice volume extracted from stem.	0.75
+CO2013_Stem_Vol_rep3	Stem volume	Stem juice volume | http://www.cropontology.org/rdf/CO_324:0000202 | Juice volume extracted from stem.	0.75
+CO2015_Stem_Vol_rep1	Stem volume	Stem juice volume | http://www.cropontology.org/rdf/CO_324:0000202 | Juice volume extracted from stem.	0.75
+CO2015_Stem_Vol_rep2	Stem volume	Stem juice volume | http://www.cropontology.org/rdf/CO_324:0000202 | Juice volume extracted from stem.	0.75
+CA2011_Stem_Volume_rep1	Stem volume	Stem juice volume | http://www.cropontology.org/rdf/CO_324:0000202 | Juice volume extracted from stem.	0.75
+CA2011_Stem_Volume_rep2	Stem volume	Stem juice volume | http://www.cropontology.org/rdf/CO_324:0000202 | Juice volume extracted from stem.	0.75
+CA2011_Stem_Volume_rep3	Stem volume	Stem juice volume | http://www.cropontology.org/rdf/CO_324:0000202 | Juice volume extracted from stem.	0.75
+CA2011_Stem_Volume_rep4	Stem volume	Stem juice volume | http://www.cropontology.org/rdf/CO_324:0000202 | Juice volume extracted from stem.	0.75
+CA2012_Stem_Vol_rep1	Stem volume	Stem juice volume | http://www.cropontology.org/rdf/CO_324:0000202 | Juice volume extracted from stem.	0.75
+CA2012_Stem_Vol_rep2	Stem volume	Stem juice volume | http://www.cropontology.org/rdf/CO_324:0000202 | Juice volume extracted from stem.	0.75
+CA2012_Stem_Vol_rep3	Stem volume	Stem juice volume | http://www.cropontology.org/rdf/CO_324:0000202 | Juice volume extracted from stem.	0.75
+CA2012_Stem_Vol_rep4	Stem volume	Stem juice volume | http://www.cropontology.org/rdf/CO_324:0000202 | Juice volume extracted from stem.	0.75
+CL2015_Wound_Healing	Stem wound closure	stem closure | http://purl.obolibrary.org/obo/FLOPO_0008662 | -	0.7692307692307692
+CL2012_Cookie_Xylose_release_rep1	stem xylose release	xylose | http://purl.obolibrary.org/obo/CHEBI_18222 | An aldopentose, found in the embryos of most edible plants and used in medicine to test for malabsorption by administration in water to the patient.	0.5454545454545454
+CL2012_Cookie_Xylose_release_rep3	stem xylose release	xylose | http://purl.obolibrary.org/obo/CHEBI_18222 | An aldopentose, found in the embryos of most edible plants and used in medicine to test for malabsorption by administration in water to the patient.	0.5454545454545454
+CL2012_Core_Xylose_release	stem xylose release	xylose | http://purl.obolibrary.org/obo/CHEBI_18222 | An aldopentose, found in the embryos of most edible plants and used in medicine to test for malabsorption by administration in water to the patient.	0.5454545454545454
+CL2012_Cookie_combined_sugar_release_rep1	Sugar release	Sugar Kelp trait ontology | http://www.cropontology.org/ontology/CO_360/Sugar%20Kelp%20trait | Sugar Kelp trait ontology	0.5333333333333333
+CL2012_Cookie_combined_sugar_release_rep3	Sugar release	Sugar Kelp trait ontology | http://www.cropontology.org/ontology/CO_360/Sugar%20Kelp%20trait | Sugar Kelp trait ontology	0.5333333333333333
+CL2012_Core_combined_sugar_release	Sugar release	Sugar Kelp trait ontology | http://www.cropontology.org/ontology/CO_360/Sugar%20Kelp%20trait | Sugar Kelp trait ontology	0.5333333333333333
+CL2012_BLUPs_Combined_Sugar_release	Sugar release	Sugar Kelp trait ontology | http://www.cropontology.org/ontology/CO_360/Sugar%20Kelp%20trait | Sugar Kelp trait ontology	0.5333333333333333
+CA2013_Pretreated_Combined_sugar_release	Sugar release	Sugar Kelp trait ontology | http://www.cropontology.org/ontology/CO_360/Sugar%20Kelp%20trait | Sugar Kelp trait ontology	0.5333333333333333
+CA2013_NoPretreated_Glucose_release	Sugar release	Sugar Kelp trait ontology | http://www.cropontology.org/ontology/CO_360/Sugar%20Kelp%20trait | Sugar Kelp trait ontology	0.5333333333333333
+CA2013_NoPretreated_Xylose_release	Sugar release	Sugar Kelp trait ontology | http://www.cropontology.org/ontology/CO_360/Sugar%20Kelp%20trait | Sugar Kelp trait ontology	0.5333333333333333
+CA2013_NoPretreated_Combined_sugar_release	Sugar release	Sugar Kelp trait ontology | http://www.cropontology.org/ontology/CO_360/Sugar%20Kelp%20trait | Sugar Kelp trait ontology	0.5333333333333333
+CL2012_SylBr_rep1	sylleptic branching	Number of sylleptic shoots | http://www.cropontology.org/rdf/CO_357:1000071 | Total number of sylleptic branches on main shoot	0.6842105263157895
+CL2012_SylBr_rep3	sylleptic branching	Number of sylleptic shoots | http://www.cropontology.org/rdf/CO_357:1000071 | Total number of sylleptic branches on main shoot	0.6842105263157895
+CL2012_NonCoppice_SYL BR_rep1	Sylleptic branching	Number of sylleptic shoots | http://www.cropontology.org/rdf/CO_357:1000071 | Total number of sylleptic branches on main shoot	0.6842105263157895
+CL2012_NonCoppice_SYL BR_rep2	Sylleptic branching	Number of sylleptic shoots | http://www.cropontology.org/rdf/CO_357:1000071 | Total number of sylleptic branches on main shoot	0.6842105263157895
+CL2012_NonCoppice_SYL BR_rep3	Sylleptic branching	Number of sylleptic shoots | http://www.cropontology.org/rdf/CO_357:1000071 | Total number of sylleptic branches on main shoot	0.6842105263157895
+CO2010_SylBr_rep1	sylleptic branching	Number of sylleptic shoots | http://www.cropontology.org/rdf/CO_357:1000071 | Total number of sylleptic branches on main shoot	0.6842105263157895
+CO2010_SylBr_rep2	sylleptic branching	Number of sylleptic shoots | http://www.cropontology.org/rdf/CO_357:1000071 | Total number of sylleptic branches on main shoot	0.6842105263157895
+CO2010_SylBr_rep3	sylleptic branching	Number of sylleptic shoots | http://www.cropontology.org/rdf/CO_357:1000071 | Total number of sylleptic branches on main shoot	0.6842105263157895
+CO2012_SylBr_rep1	sylleptic branching	Number of sylleptic shoots | http://www.cropontology.org/rdf/CO_357:1000071 | Total number of sylleptic branches on main shoot	0.6842105263157895
+CO2012_SylBr_rep2	sylleptic branching	Number of sylleptic shoots | http://www.cropontology.org/rdf/CO_357:1000071 | Total number of sylleptic branches on main shoot	0.6842105263157895
+CO2012_SylBr_rep3	sylleptic branching	Number of sylleptic shoots | http://www.cropontology.org/rdf/CO_357:1000071 | Total number of sylleptic branches on main shoot	0.6842105263157895
+CO2013_SylBr_rep1	sylleptic branching	Number of sylleptic shoots | http://www.cropontology.org/rdf/CO_357:1000071 | Total number of sylleptic branches on main shoot	0.6842105263157895
+CO2013_SylBr_rep2	sylleptic branching	Number of sylleptic shoots | http://www.cropontology.org/rdf/CO_357:1000071 | Total number of sylleptic branches on main shoot	0.6842105263157895
+CO2013_SylBr_rep3	sylleptic branching	Number of sylleptic shoots | http://www.cropontology.org/rdf/CO_357:1000071 | Total number of sylleptic branches on main shoot	0.6842105263157895
+CA2011_number_of_sylleptic_branches_rep1	Sylleptic branching	Number of sylleptic shoots | http://www.cropontology.org/rdf/CO_357:1000071 | Total number of sylleptic branches on main shoot	0.6842105263157895
+CA2011_number_of_sylleptic_branches_rep2	Sylleptic branching	Number of sylleptic shoots | http://www.cropontology.org/rdf/CO_357:1000071 | Total number of sylleptic branches on main shoot	0.6842105263157895
+CA2011_number_of_sylleptic_branches_rep3	Sylleptic branching	Number of sylleptic shoots | http://www.cropontology.org/rdf/CO_357:1000071 | Total number of sylleptic branches on main shoot	0.6842105263157895
+CA2011_number_of_sylleptic_branches_rep4	Sylleptic branching	Number of sylleptic shoots | http://www.cropontology.org/rdf/CO_357:1000071 | Total number of sylleptic branches on main shoot	0.6842105263157895
+CA2012_SylBr_rep1	sylleptic branching	Number of sylleptic shoots | http://www.cropontology.org/rdf/CO_357:1000071 | Total number of sylleptic branches on main shoot	0.6842105263157895
+CA2012_SylBr_rep2	sylleptic branching	Number of sylleptic shoots | http://www.cropontology.org/rdf/CO_357:1000071 | Total number of sylleptic branches on main shoot	0.6842105263157895
+CA2012_SylBr_rep3	sylleptic branching	Number of sylleptic shoots | http://www.cropontology.org/rdf/CO_357:1000071 | Total number of sylleptic branches on main shoot	0.6842105263157895
+CA2012_SylBr_rep4	sylleptic branching	Number of sylleptic shoots | http://www.cropontology.org/rdf/CO_357:1000071 | Total number of sylleptic branches on main shoot	0.6842105263157895
+CA2012_Tertiary_Branch_rep2	Tertiary branching	tertiary branching of inflorescence | http://purl.obolibrary.org/obo/TO_0006035 | An inflorescence branching (TO:0000050) trait which is the extent of tertiary branching that usually determines the shape and compactness of the inflorescence (PO:0009049) (such as in rice panicle).	0.75
+CA2011_Form_rep1	Tree form (shrub like / tree like)	decision tree | http://purl.enanomapper.org/onto/ENM_8000065 | -	0.35
+CA2011_Form_rep2	Tree form (shrub like / tree like)	decision tree | http://purl.enanomapper.org/onto/ENM_8000065 | -	0.35
+CA2011_Form_rep3	Tree form (shrub like / tree like)	decision tree | http://purl.enanomapper.org/onto/ENM_8000065 | -	0.35
+CA2011_Form_rep4	Tree form (shrub like / tree like)	decision tree | http://purl.enanomapper.org/onto/ENM_8000065 | -	0.35
+CL2010_Height_rep1	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CL2010_Height_rep2	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CL2011_Height_rep1	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CL2011_Height_rep2	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CL2012_Ht_rep1	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CL2012_Ht_rep3	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CL2012_NonCoppice_Ht_rep1	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CL2012_NonCoppice_Ht_rep2	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CL2012_NonCoppice_Ht_rep3	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CL2013_NonCoppice_Height_rep1	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CL2013_NonCoppice_Height_rep2	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CL2013_NonCoppice_Height_rep3	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CO2009_Height_rep1	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CO2009_Height_rep2	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CO2009_Height_rep3	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CO2010_Height_rep1	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CO2010_Height_rep2	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CO2010_Height_rep3	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CO2012_Height_rep1	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CO2012_Height_rep2	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CO2012_Height_rep3	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CO2013_Height_rep1	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CO2013_Height_rep2	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CO2013_Height_rep3	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CO2015_Height_rep1	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CO2015_Height_rep2	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CA2009_Height_rep1	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CA2009_Height_rep2	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CA2009_Height_rep3	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CA2009_Height_rep4	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CA2010_Height_rep1	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CA2010_Height_rep2	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CA2010_Height_rep3	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CA2010_Height_rep4	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CA2011_Height_rep1	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CA2011_Height_rep2	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CA2011_Height_rep3	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CA2011_Height_rep4	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CA2012_Height_rep1	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CA2012_Height_rep2	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CA2012_Height_rep3	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CA2012_Height_rep4	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037 | Total height of the tree (from ground to tallest part of the crown)	0.7
+CL2013_Venturia_rep1	Venturia #	Venturia <ascomycetes> | http://purl.obolibrary.org/obo/NCBITaxon_5024 | -	0.5294117647058824
+CL2013_Venturia_rep2	Venturia #	Venturia <ascomycetes> | http://purl.obolibrary.org/obo/NCBITaxon_5024 | -	0.5294117647058824
+CL2013_Venturia_rep3	Venturia #	Venturia <ascomycetes> | http://purl.obolibrary.org/obo/NCBITaxon_5024 | -	0.5294117647058824
+CL2012_BLUPs_Xylose_release	Xylose release	xylose | http://purl.obolibrary.org/obo/CHEBI_18222 | An aldopentose, found in the embryos of most edible plants and used in medicine to test for malabsorption by administration in water to the patient.	0.6666666666666667
+CA2013_Pretreated_Xylose_release	Xylose release	xylose | http://purl.obolibrary.org/obo/CHEBI_18222 | An aldopentose, found in the embryos of most edible plants and used in medicine to test for malabsorption by administration in water to the patient.	0.6666666666666667
+CL2015_wet	wet #	wet | http://purl.obolibrary.org/obo/PATO_0001823 | A wetness quality inhering in a bearer by virtue of the bearer's being covered by a liquid.	0.6
+CL2015_cork	cork #	cork | http://purl.obolibrary.org/obo/FOODON_03500046 | -	0.6666666666666667
+CL2015_smooth	smooth #	smooth | http://purl.obolibrary.org/obo/PATO_0000701 | A texture quality inhering in a bearer by virtue of the bearer's processing a surface free of roughness or irregularities.	0.7142857142857143
+CO2010_Clear_Stem_rep1	clear stem #	clear | http://purl.obolibrary.org/obo/WBPhenotype_0001010 | Animals appear unusually transparent when compared to control.	0.5
+CO2010_Clear_Stem_rep2	clear stem #	clear | http://purl.obolibrary.org/obo/WBPhenotype_0001010 | Animals appear unusually transparent when compared to control.	0.5
+CO2010_Clear_Stem_rep3	clear stem #	clear | http://purl.obolibrary.org/obo/WBPhenotype_0001010 | Animals appear unusually transparent when compared to control.	0.5

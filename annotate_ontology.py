@@ -12,9 +12,11 @@ class annotate_ontology:
     def annotate_phenotypes(self, input_file, output_file):
 
         REST_URL = "https://www.ebi.ac.uk/ols/api/search?q="
+        #REST_URL = "http://ec2-3-19-241-177.us-east-2.compute.amazonaws.com:8080/api/search?q="
         annotate_results = {}
 
         with open(output_file, 'w') as fw:
+            fw.write("Term\tSimplified Term\tOntology\tScore\n")
             with open(input_file, 'r') as fp:
                 for x in fp:
                     input1 = x.rstrip()
@@ -28,18 +30,32 @@ class annotate_ontology:
                         if('description' in result.keys()):
                             desc = ','.join(result['description'])
                         else:
-                            desc = ''
+                            desc = '-'
 
-                        w1 = text_to_annotate.upper()
-                        w2 = (result['label']).upper()
-                        score = nltk.jaccard_distance(set(w1), set(w2))
+                        if 'label' in result.keys():
+                            label = result['label']
+                        else:
+                            label = '-'     
+
+                        if not 'iri' in result.keys():
+                            score = '-'
+                            ontology = '-'
+                        else:
+                            ontology = result['iri'] 
+                            w1 = text_to_annotate.upper()
+                            w2 = (result['label']).upper()
+                            score = 1 - nltk.jaccard_distance(set(w1), set(w2))
 
                         #pheno_dict[score] = input1 + '\t' +result['obo_id'] + '\t' + result['label'] + '\t' + desc + '\t' + str(score)
-                        pheno_dict[score] = input1 + '\t' +result['label'] + ' | ' + result['iri'] + "\t" +  str(score)
+                        pheno_dict[score] = input1 + '\t' + label  + ' | ' + ontology + ' | ' + desc + "\t" +  str(score)
+                    
+                    if not len(list(pheno_dict.keys())) == 0:
+                       max_score = list(pheno_dict.keys())[0]
+                       fw.write(pheno_dict[max_score] + "\n")
+                    else:
+                       fw.write(input1 + "\t- | -\tNA\n")
 
-                    max_score = list(pheno_dict.keys())[0]
-
-                    fw.write(pheno_dict[max_score] + "\n")
+                    
 
         return output_file
 

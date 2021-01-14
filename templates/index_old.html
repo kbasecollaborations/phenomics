@@ -1,0 +1,272 @@
+<html>
+<head>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/handsontable/8.2.0/handsontable.full.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/handsontable/8.2.0/handsontable.full.min.css">
+<script src="https://d3js.org/d3.v6.min.js"></script>
+</head>
+
+<body>
+  <button class="btn">Add row above</button>
+  <button class="btn2">Add row above</button>
+  <button id="export-file" class="intext-btn">Download CSV</button>
+  <div id="example3" class="hot handsontable htColumnHeaders"></div>
+  <script>
+
+dataObj = [[]]
+
+  $(document).ready(function(){
+            $.ajax({
+                url: '{{ url.string }}',
+                type: "GET",
+                dataType: "text",
+                mimeType: "text/plain",
+                success: function(data){
+                    var x = data.split("\n");
+                    for (var i=0; i<x.length; i++) {
+                       y = x[i].split('\t');
+                       x[i] = y;
+                     }
+                    dataObj=x                    
+                    console.log(x); // logs "box1.bar1.name  box1.bar2.name  box1.bar3.name  box1.bar4.name"
+var
+container3 = document.getElementById('example3'),
+           hot3;
+
+hot3 = new Handsontable(container3, {
+  manualColumnResize: true,
+  data:dataObj,
+  manualRowResize: true,
+  outsideClickDeselects: true,
+  startRows: 10,
+  licenseKey: 'non-commercial-and-evaluation',
+  rowHeaders: true,
+  columnSorting: true,
+  colWidths: 150,
+  fillHandle: true,
+  colHeaders: false,
+
+  columns: [
+  {
+
+  },
+  {
+    type: 'autocomplete',
+    source: function (query, process) {
+      $.ajax({
+        url: 'https://www.ebi.ac.uk/ols/api/select',
+        dataType: 'json',
+        data: {
+          q: query
+        },
+        success: function (response) {
+          var arr= new Array();
+
+          $.each(response.response.docs, function(index,value) {
+            arr.push( value.label + " | " + value.iri )
+          });
+          console.log(arr.length)
+            console.log(arr)
+            process(arr);
+
+        }
+      });
+    },
+    strict: false
+  },
+  {
+    type: 'autocomplete',
+    source: function (query, process) {
+      $.ajax({
+        url: 'https://www.ebi.ac.uk/ols/api/select',
+        dataType: 'json',
+        data: {
+          q: query
+        },
+        success: function (response) {
+          var arr= new Array();
+
+          $.each(response.response.docs, function(index,value) {
+            arr.push( value.label + " | " + value.iri )
+          });
+          console.log(arr.length)
+            console.log(arr)
+            process(arr);
+
+        }
+      });
+    },
+    strict: false
+  },
+
+  {
+    type: 'autocomplete',
+    source: function (query, process) {
+      $.ajax({
+        url: 'https://www.ebi.ac.uk/ols/api/select',
+        dataType: 'json',
+        data: {
+          q: query
+        },
+        success: function (response) {
+          var arr= new Array();
+
+          $.each(response.response.docs, function(index,value) {
+            arr.push( value.label + " | " + value.iri )
+          });
+          console.log(arr.length)
+            console.log(arr)
+            process(arr);
+
+        }
+      });
+    },
+    strict: false
+  },
+  {
+    type: 'autocomplete',
+    source: function (query, process) {
+      $.ajax({
+        url: 'https://www.ebi.ac.uk/ols/api/select',
+        dataType: 'json',
+        data: {
+          q: query
+        },
+        success: function (response) {
+          var arr= new Array();
+
+          $.each(response.response.docs, function(index,value) {
+            arr.push( value.label + " | " + value.iri )
+          });
+          console.log(arr.length)
+            console.log(arr)
+            process(arr);
+
+        }
+      });
+    },
+    strict: false
+  },
+
+
+  {
+    type: 'autocomplete',
+    source: function (query, process) {
+      $.ajax({
+        url: 'https://www.ebi.ac.uk/ols/api/select',
+        dataType: 'json',
+        data: {
+          q: query
+        },
+        success: function (response) {
+          var arr= new Array();
+
+          $.each(response.response.docs, function(index,value) {
+            arr.push( value.label + " | " + value.iri )
+          });
+          console.log(arr.length)
+            console.log(arr)
+            process(arr);
+
+        }
+      });
+    },
+    strict: false
+  },
+
+
+  {
+    type: 'autocomplete',
+    source: function (query, process) {
+      $.ajax({
+        url: 'https://www.ebi.ac.uk/ols/api/select',
+        dataType: 'json',
+        data: {
+          q: query
+        },
+        success: function (response) {
+          var arr= new Array();
+
+          $.each(response.response.docs, function(index,value) {
+            arr.push( value.label + " | " + value.iri )
+          });
+          console.log(arr.length)
+            console.log(arr)
+            process(arr);
+
+        }
+      });
+    },
+    strict: false
+  },
+
+
+  {
+    type: 'autocomplete',
+    source: function (query, process) {
+      $.ajax({
+        url: 'https://www.ebi.ac.uk/ols/api/select',
+        dataType: 'json',
+        data: {
+          q: query
+        },
+        success: function (response) {
+          var arr= new Array();
+
+          $.each(response.response.docs, function(index,value) {
+            arr.push( value.label + " | " + value.iri )
+          });
+          console.log(arr.length)
+            console.log(arr)
+            process(arr);
+
+        }
+      });
+    },
+    strict: false
+  },
+
+
+// Chassis color is a default text column
+  {} // Bumper color is a default text column
+  ],
+
+});
+
+document.querySelector('.btn').addEventListener('click', function(){
+  hot3.alter('insert_row', hot3.getSelectedLast()[0], 1);
+})
+
+document.querySelector('.btn2').addEventListener('click', function(){
+  hot3.alter('insert_row', hot3.getSelectedLast()[0] + 1, 1);
+})
+
+var button1 = document.getElementById('export-file');
+var exportPlugin1 = hot3.getPlugin('exportFile');
+
+button1.addEventListener('click', function() {
+    exportPlugin1.downloadFile('csv', {
+      bom: false,
+      columnDelimiter: ',',
+      columnHeaders: false,
+      exportHiddenColumns: true,
+      exportHiddenRows: true,
+      fileExtension: 'csv',
+      filename: 'Handsontable-CSV-file_[YYYY]-[MM]-[DD]',
+      mimeType: 'text/csv',
+      rowDelimiter: '\r\n',
+      rowHeaders: true
+    });
+  });
+  
+                }
+            });
+        });
+
+
+
+
+  </script>
+
+</body>
+</html>

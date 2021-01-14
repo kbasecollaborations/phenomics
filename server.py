@@ -66,7 +66,8 @@ def upload_file():
 
             #return redirect(url_for('uploaded_file',
             #                        filename=filename))
-    return '''
+    return render_template('upload.html')
+    '''
     <!doctype html>
     <title>Upload new File</title>
     <h1>Upload new File</h1>

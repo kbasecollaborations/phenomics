@@ -1,0 +1,60 @@
+Apical dominance	Apical dominance	1= Apical dominance (AP) | http://www.cropontology.org/rdf/CO_330:0000161/3	0.26666666666666666
+Bark chlorophyll content	Bark chlorophyll content	chlorophyll content | http://purl.obolibrary.org/obo/TO_0000495	0.21428571428571427
+Bark moisture content	Bark moisture content	Moisture Content | http://www.cropontology.org/rdf/CO_334:0000407	0.21428571428571427
+Bark thickness	Bark thickness	Bark thickness | http://www.cropontology.org/rdf/CO_357:1000005	0.0
+Branch angle	Branch angle	branch angle | http://purl.obolibrary.org/obo/TO_1000009	0.0
+Branch color	Branch color	branch color | http://purl.obolibrary.org/obo/FLOPO_0007468	0.0
+Branch deflection	Branch deflection	magnetic deflection | http://purl.obolibrary.org/obo/MS_1000221	0.3125
+Branch fresh weight	Branch fresh weight	Fresh weight | http://www.cropontology.org/rdf/CO_360:0000000	0.2857142857142857
+Branch length	Branch length	branch length | http://purl.obolibrary.org/obo/MIAPA_0000004	0.0
+Budflush score	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007	0.42857142857142855
+Budset score	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009	0.36363636363636365
+Chlorophyll content	Chlorophyll content	chlorophyll content | http://purl.obolibrary.org/obo/TO_0000495	0.0
+Coppice D20 (Stem diameter tallest shoot after cutting 20 cm above ground)	Coppice D20 (Stem diameter tallest shoot after cutting 20 cm above ground)	D20 | http://purl.enanomapper.org/onto/ENM_9000120	0.875
+Coppice DBH	Coppice DBH	Coppice | http://purl.obolibrary.org/obo/GAZ_00483738	0.4444444444444444
+Coppice Height	Coppice Height	height | http://purl.obolibrary.org/obo/PATO_0000119	0.4444444444444444
+Coppice number of stem sprouts	Coppice number of stem sprouts	Coppice | http://purl.obolibrary.org/obo/GAZ_00483738	0.6428571428571429
+Coppice stem volume	Coppice stem volume	Coppice | http://purl.obolibrary.org/obo/GAZ_00483738	0.5833333333333334
+Crown area	Crown area	Crown rust severity - Estimation | http://www.cropontology.org/rdf/CO_350:0000515	0.5
+Crown width East west	Crown width East west	Crown size | http://www.cropontology.org/rdf/CO_357:1000086	0.35714285714285715
+Crown width North South	Crown width North South	Crown size | http://www.cropontology.org/rdf/CO_357:1000086	0.42857142857142855
+DBH	DBH	DBH | http://identifiers.org/hgnc/2689	0.0
+Diameter at 20 cm	Diameter at 20 cm	cm | http://www.cropontology.org/rdf/CO_347:0000010	0.8181818181818182
+Epicormic branching	Epicormic branching	Branching | http://www.cropontology.org/rdf/CO_357:1000008	0.38461538461538464
+Glucose release	Glucose release	release | http://usefulinc.com/ns/doap#release	0.5
+Green leaf weight	Green leaf weight	Green leaf biomass | http://www.cropontology.org/rdf/CO_345:0000022	0.4375
+Height to the highest branch	Height to the highest branch	Plant height highest leaf - Method | http://www.cropontology.org/rdf/CO_339:0000115	0.47368421052631576
+Lenticel	Lenticel	lenticel | http://purl.obolibrary.org/obo/PO_0000031	0.0
+Lignin content	Lignin content	lignin content | http://purl.obolibrary.org/obo/TO_0000731	0.0
+Longitudinal shrinkage	Longitudinal shrinkage	3=No shrinkage after storage | http://www.cropontology.org/rdf/CO_330:0000589/3	0.3333333333333333
+Melampsora	Melampsora	Melampsora | http://purl.obolibrary.org/obo/NCBITaxon_5260	0.0
+Mite damage	Mite damage	MITE | http://purl.obolibrary.org/obo/SO_0000338	0.5
+Number of side branches ##	Number of side branches ##	branches | http://www.cropontology.org/rdf/CO_340:0000832	0.5
+Number of stems	Number of stems	Number of stems per plant-computation | http://www.cropontology.org/rdf/CO_343:0010020	0.35294117647058826
+Petiole length	Petiole length	Petiole length | http://www.cropontology.org/rdf/CO_366:0000207	0.0
+Petiole maximum diameter	Petiole maximum diameter	maximum diameter | http://purl.obolibrary.org/obo/HAO_0002452	0.23076923076923078
+Petiole minimum diameter	Petiole minimum diameter	minimum diameter | http://purl.obolibrary.org/obo/HAO_0002453	0.23076923076923078
+Radial shrinkage	Radial shrinkage	3=No shrinkage after storage | http://www.cropontology.org/rdf/CO_330:0000589/3	0.4117647058823529
+Rodent damage	Rodent damage	Rodent damage | http://www.cropontology.org/rdf/CO_321:0000090	0.0
+S/G ratio	S/G ratio	Syringaldehyde/Coniferaldehyde contents | http://www.cropontology.org/rdf/CO_357:1000112	0.47058823529411764
+Slug browsing	Slug browsing	slug | http://www.ontology-of-units-of-measure.org/resource/om-2/slug	0.6363636363636364
+Stem S/G ratio	Stem S/G ratio	ratio | http://purl.obolibrary.org/obo/STATO_0000184	0.5454545454545454
+Stem density	Stem density	stem base mass density | http://purl.obolibrary.org/obo/FLOPO_0018880	0.18181818181818182
+Stem fresh volume	Stem fresh volume	Stem juice volume | http://www.cropontology.org/rdf/CO_324:0000202	0.4
+Stem fresh weight	Stem fresh weight	Fresh weight | http://www.cropontology.org/rdf/CO_360:0000000	0.09090909090909091
+Stem glucose release	Stem glucose release	Stem Cell Mobilization Therapy | http://purl.obolibrary.org/obo/NCIT_C62604	0.47368421052631576
+Stem lignin content	Stem lignin content	Stem total lignin content | http://www.cropontology.org/rdf/CO_320:0001145	0.08333333333333333
+Stem moisture content	Stem moisture content	Grain moisture content | http://www.cropontology.org/rdf/CO_321:0000012	0.15384615384615385
+Stem specific gravity	Stem specific gravity	specific gravity | http://semanticscience.org/resource/SIO_001355	0.07142857142857142
+Stem volum to crown area	Stem volum to crown area	Pathway ontology | http://purl.obolibrary.org/obo/pw.owl	0.6111111111111112
+Stem volume	Stem volume	Stem juice volume | http://www.cropontology.org/rdf/CO_324:0000202	0.25
+Stem wound closure	Stem wound closure	stem closure | http://purl.obolibrary.org/obo/FLOPO_0008662	0.23076923076923078
+Sugar release	Sugar release	Sugar Kelp trait ontology | http://www.cropontology.org/ontology/CO_360/Sugar%20Kelp%20trait	0.4666666666666667
+Sylleptic branching	Sylleptic branching	Number of sylleptic shoots | http://www.cropontology.org/rdf/CO_357:1000071	0.3157894736842105
+Tertiary branching	Tertiary branching	tertiary branching of inflorescence | http://purl.obolibrary.org/obo/TO_0006035	0.25
+Tree form (shrub like / tree like)	Tree form (shrub like / tree like)	decision tree | http://purl.enanomapper.org/onto/ENM_8000065	0.65
+Tree height	Tree height	Tree total height | http://www.cropontology.org/rdf/CO_357:1000037	0.3
+Venturia #	Venturia #	Venturia <ascomycetes> | http://purl.obolibrary.org/obo/NCBITaxon_5024	0.47058823529411764
+Xylose release	Xylose release	xylose | http://purl.obolibrary.org/obo/CHEBI_18222	0.3333333333333333
+stem xylose release	stem xylose release	xylose | http://purl.obolibrary.org/obo/CHEBI_18222	0.45454545454545453
+sylleptic branching	sylleptic branching	Number of sylleptic shoots | http://www.cropontology.org/rdf/CO_357:1000071	0.3157894736842105

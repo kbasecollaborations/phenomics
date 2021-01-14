@@ -1,0 +1,29 @@
+Apical dominance	Apical dominance	tassel apical meristem | http://purl.obolibrary.org/obo/PO_0006376	0.42857142857142855
+Bark chlorophyll content	Bark chlorophyll content	chlorophyll content | http://purl.obolibrary.org/obo/TO_0000495	0.21428571428571427
+Bark moisture content	Bark moisture content	moisture content trait | http://purl.obolibrary.org/obo/TO_0000228	0.14285714285714285
+Bark thickness	Bark thickness	Bark thickness | http://www.cropontology.org/rdf/CO_357:1000005	0.0
+Branch angle	Branch angle	branch angle | http://purl.obolibrary.org/obo/TO_1000009	0.0
+Branch color	Branch color	inflorescence branch color | http://purl.obolibrary.org/obo/TO_0011004	0.3076923076923077
+Branch deflection	Branch deflection	branch | http://purl.obolibrary.org/obo/PO_0025073	0.5714285714285714
+Branch fresh weight	Branch fresh weight	shoot fresh weight | http://purl.obolibrary.org/obo/TO_0000571	0.3333333333333333
+Branch length	Branch length	panicle inflorescence terminal primary branch length | http://purl.obolibrary.org/obo/TO_0001065	0.3888888888888889
+Budflush score	Budflush score	Budflush day | http://www.cropontology.org/rdf/CO_357:1000007	0.42857142857142855
+Budset score	Budset score	Budset date | http://www.cropontology.org/rdf/CO_357:1000009	0.36363636363636365
+Chlorophyll content	Chlorophyll content	chlorophyll content | http://purl.obolibrary.org/obo/TO_0000495	0.0
+Coppice D20 (Stem diameter tallest shoot after cutting 20 cm above ground)	Coppice D20 (Stem diameter tallest shoot after cutting 20 cm above ground)	stem | http://purl.obolibrary.org/obo/PO_0009047	0.8333333333333334
+Coppice DBH	Coppice DBH	DBH | http://www.cropontology.org/rdf/CO_357:0000022	0.6666666666666666
+Coppice Height	Coppice Height	plant height | http://purl.obolibrary.org/obo/TO_0000207	0.4166666666666667
+Coppice number of stem sprouts	Coppice number of stem sprouts	stem number | http://purl.obolibrary.org/obo/TO_0000953	0.35714285714285715
+Coppice stem volume	Coppice stem volume	leaf volume | http://purl.obolibrary.org/obo/TO_0000826	0.5
+Crown area	Crown area	crown rootless | http://purl.obolibrary.org/obo/TO_0000230	0.36363636363636365
+Crown width East west	Crown width East west	east | http://purl.obolibrary.org/obo/PATO_0045092	0.6923076923076923
+Crown width North South	Crown width North South	south | http://purl.obolibrary.org/obo/PATO_0045093	0.5833333333333334
+DBH	DBH	DBH | http://www.cropontology.org/rdf/CO_357:0000022	0.0
+Diameter at 20 cm	Diameter at 20 cm	Woody Plant Ontology ontology | http://www.cropontology.org/ontology/CO_357/Woody%20Plant%20Ontology	0.7777777777777778
+Epicormic branching	Epicormic branching	Branching | http://www.cropontology.org/rdf/CO_357:1000008	0.38461538461538464
+Glucose release	Glucose release	glucose | http://purl.obolibrary.org/obo/CHEBI_17234	0.3
+Green leaf weight	Green leaf weight	leaf wet weight | http://purl.obolibrary.org/obo/TO_0000891	0.16666666666666666
+Height to the highest branch	Height to the highest branch	Plant Trait Ontology | http://purl.obolibrary.org/obo/to.owl	0.5
+Lenticel	Lenticel	lenticel | http://purl.obolibrary.org/obo/PO_0000031	0.0
+Lignin content	Lignin content	lignin content | http://purl.obolibrary.org/obo/TO_0000731	0.0
+Longitudinal shrinkage	Longitudinal shrinkage	axial system | http://purl.obolibrary.org/obo/PO_0025410	0.6111111111111112

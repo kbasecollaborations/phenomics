@@ -1,0 +1,400 @@
+CO2010_Apical_Dominance_rep1	Apical dominance
+CO2010_Apical_Dominance_rep2	Apical dominance
+CO2010_Apical_Dominance_rep3	Apical dominance
+CL2015_chlorophyll_in_bark	Bark chlorophyll content
+CL2012_Cookie_miosture_content_bark	Bark moisture content
+CO2010_Cookies_miosture_content_bark_rep2	Bark moisture content
+CA2013_miosture_content_bark_rep1	Bark moisture content
+CA2013_miosture_content_bark_rep2	Bark moisture content
+CL2012_Cookie_bark_thickness	Bark thickness
+CO2010_Cookies_bark_thickness_rep1	Bark thickness
+CO2010_Cookies_bark_thickness_rep2	Bark thickness
+CA2013_bark_thickness_rep1	Bark thickness
+CA2013_bark_thickness_rep2	Bark thickness
+CL2012_Branch_Angle_rep1	Branch angle
+CL2012_Branch_Angle_rep3	Branch angle
+CA2012_Branch_Angle_rep2	Branch angle
+CA2012_Branch_Color_rep2	Branch color
+CA2012_Branch_Deflection_rep2	Branch deflection
+CL2012_Branch_Fresh_Weight_rep1	Branch fresh weight
+CL2012_Branch_Fresh_Weight_rep3	Branch fresh weight
+CA2012_Branch_Length_rep2	Branch length
+CA2012_Horizontal_Branch_Length_rep2	Branch length
+CA2012_Longest_Side_Branch_Length_rep2	Branch length
+CL2010_Bud_Flush_rep1	Budflush score
+CL2010_Bud_Flush_rep2	Budflush score
+CL2010_Bud_Flush_rep3	Budflush score
+CL2013_Bud_Flush_rep1	Budflush score
+CL2013_Bud_Flush_rep2	Budflush score
+CL2013_Bud_Flush_rep3	Budflush score
+CO2010_Bud_Flush1_rep1	Budflush score
+CO2010_Bud_Flush2_rep1	Budflush score
+CO2010_Bud_Flush_Aver_rep1	Budflush score
+CO2010_Bud_Flush1_rep2	Budflush score
+CO2010_Bud_Flush2_rep2	Budflush score
+CO2010_Bud_Flush_Aver_rep2	Budflush score
+CO2010_Bud_Flush1_rep3	Budflush score
+CO2010_Bud_Flush2_rep3	Budflush score
+CO2010_Bud_Flush_Aver_rep3	Budflush score
+CO2011_Bud_Break_rep1	Budflush score
+CO2011_Bud_Break_rep2	Budflush score
+CO2011_Bud_Break_rep3	Budflush score
+CO2012_Bud_Flush_rep1	Budflush score
+CO2012_Bud_Flush_rep2	Budflush score
+CO2012_Bud_Flush_rep3	Budflush score
+CO2013_Bud_Flush_3-26_rep1	Budflush score
+CO2013_Bud_Flush_4-01_rep1	Budflush score
+CO2013_Bud_Flush_Aver_rep1	Budflush score
+CO2013_Bud_Flush_3-26_rep2	Budflush score
+CO2013_Bud_Flush_4-01_rep2	Budflush score
+CO2013_Bud_Flush_Aver_rep2	Budflush score
+CO2013_Bud_Flush_3-26_rep3	Budflush score
+CO2013_Bud_Flush_4-01_rep3	Budflush score
+CO2013_Bud_Flush_Aver_rep3	Budflush score
+CA2010_Bud_Flush_4-01_rep1	Budflush score
+CA2010_Bud_Flush_4-22_rep1	Budflush score
+CA2010_Bud_Flush_Average_rep1	Budflush score
+CA2010_Bud_Flush_4-01_rep2	Budflush score
+CA2010_Bud_Flush_4-22_rep2	Budflush score
+CA2010_Bud_Flush_Average_rep2	Budflush score
+CA2010_Bud_Flush_4-01_rep3	Budflush score
+CA2010_Bud_Flush_4-22_rep3	Budflush score
+CA2010_Bud_Flush_Average_rep3	Budflush score
+CA2012_Bud_Flush_4-20_rep1	Budflush score
+CA2012_Bud_Flush_5-1_rep1	Budflush score
+CA2012_Bud_Flush_Aver_rep1	Budflush score
+CA2012_Bud_Flush_4-20_rep2	Budflush score
+CA2012_Bud_Flush_5-1_rep2	Budflush score
+CA2012_Bud_Flush_Aver_rep2	Budflush score
+CA2012_Bud_Flush_4-20_rep3	Budflush score
+CA2012_Bud_Flush_5-1_rep3	Budflush score
+CA2012_Bud_Flush_Aver_rep3	Budflush score
+CA2013_Bud_Flush_3-29_rep1	Budflush score
+CA2013_Bud_Flush_4-12_rep1	Budflush score
+CA2013_Bud_Flush_Aver_rep1	Budflush score
+CA2013_Bud_Flush_3-29_rep2	Budflush score
+CA2013_Bud_Flush_4-12_rep2	Budflush score
+CA2013_Bud_Flush_Aver_rep2	Budflush score
+CA2013_Bud_Flush_3-29_rep3	Budflush score
+CA2013_Bud_Flush_4-12_rep3	Budflush score
+CA2013_Bud_Flush_Aver_rep3	Budflush score
+CL2010_Bud_Set_score1_rep1	Budset score
+CL2010_Bud_Set_score2_rep1	Budset score
+CL2010_Bud_Set_score3_rep1	Budset score
+CL2010_Bud_Set_Average_rep1	Budset score
+CL2010_Bud_Set_score1_rep2	Budset score
+CL2010_Bud_Set_score2_rep2	Budset score
+CL2010_Bud_Set_score3_rep2	Budset score
+CL2010_Bud_Set_Average_rep2	Budset score
+CL2010_Bud_Set_score1_rep3	Budset score
+CL2010_Bud_Set_score2_rep3	Budset score
+CL2010_Bud_Set_score3_rep3	Budset score
+CL2010_Bud_Set_Average_rep3	Budset score
+CO2009_Bud_Set_rep1	Budset score
+CO2009_Bud_Set_rep2	Budset score
+CO2009_Bud_Set_rep3	Budset score
+CO2010_Bud_Set1_rep1	Budset score
+CO2010_Bud_Set2_rep1	Budset score
+CO2010_Bud_Set3_rep1	Budset score
+CO2010_Bud_Set_Aver_rep1	Budset score
+CO2010_Bud_Set1_rep2	Budset score
+CO2010_Bud_Set2_rep2	Budset score
+CO2010_Bud_Set3_rep2	Budset score
+CO2010_Bud_Set_Aver_rep2	Budset score
+CO2010_Bud_Set1_rep3	Budset score
+CO2010_Bud_Set2_rep3	Budset score
+CO2010_Bud_Set3_rep3	Budset score
+CO2010_Bud_Set_Aver_rep3	Budset score
+CA2010_Bud_Set_9-02_rep1	Budset score
+CA2010_Bud_Set_9-16_rep1	Budset score
+CA2010_Bud_Set_10-01_rep1	Budset score
+CA2010_Bud_Set_Average_rep1	Budset score
+CA2010_Bud_Set_9-02_rep2	Budset score
+CA2010_Bud_Set_9-16_rep2	Budset score
+CA2010_Bud_Set_10-01_rep2	Budset score
+CA2010_Bud_Set_Average_rep2	Budset score
+CA2010_Bud_Set_9-02_rep3	Budset score
+CA2010_Bud_Set_9-16_rep3	Budset score
+CA2010_Bud_Set_10-01_rep3	Budset score
+CA2010_Bud_Set_Average_rep3	Budset score
+CL2012_SPAD_rep1	Chlorophyll content
+CL2012_SPAD_rep2	Chlorophyll content
+CA2012_SPAD_rep2	Chlorophyll content
+CL2012_Coppice_D20_rep1	Coppice D20 (Stem diameter tallest shoot after cutting 20 cm above ground)
+CL2012_Coppice_D20_rep3	Coppice D20 (Stem diameter tallest shoot after cutting 20 cm above ground)
+CO2011_Coppice_D20_rep1	Coppice D20 (Stem diameter tallest shoot after cutting 20 cm above ground)
+CO2011_Coppice_D20_rep2	Coppice D20 (Stem diameter tallest shoot after cutting 20 cm above ground)
+CO2011_Coppice_D20_rep3	Coppice D20 (Stem diameter tallest shoot after cutting 20 cm above ground)
+CL2014_Coppice_DBH_rep1	Coppice DBH
+CL2014_Coppice_DBH_rep3	Coppice DBH
+CL2012_Coppice_Height_rep1	Coppice Height
+CL2012_Coppice_Height_rep3	Coppice Height
+CO2011_Coppice_Height_rep1	Coppice Height
+CO2011_Coppice_Height_rep2	Coppice Height
+CO2011_Coppice_Height_rep3	Coppice Height
+CL2012_Coppice_StemCount_rep1	Coppice number of stem sprouts
+CL2012_Coppice_StemCount_rep3	Coppice number of stem sprouts
+CO2011_Coppice_No_of_stem_sprouts_rep1	Coppice number of stem sprouts
+CO2011_Coppice_No_of_stem_sprouts_rep2	Coppice number of stem sprouts
+CO2011_Coppice_No_of_stem_sprouts_rep3	Coppice number of stem sprouts
+CL2012_Coppice_StemVolume_rep1	Coppice stem volume
+CL2012_Coppice_StemVolume_rep3	Coppice stem volume
+CO2011_Coppice_StemVolume_rep1	Coppice stem volume
+CO2011_Coppice_StemVolume_rep2	Coppice stem volume
+CO2011_Coppice_StemVolume_rep3	Coppice stem volume
+CA2011_Crown_Area_rep1	Crown area
+CA2011_Crown_Area_rep2	Crown area
+CA2011_Crown_Area_rep3	Crown area
+CA2011_Crown_Area_rep4	Crown area
+CA2011_CW_EW_rep1	Crown width East west
+CA2011_CW_EW_rep2	Crown width East west
+CA2011_CW_EW_rep3	Crown width East west
+CA2011_CW_EW_rep4	Crown width East west
+CA2011_CW_SN_rep1	Crown width North South
+CA2011_CW_SN_rep2	Crown width North South
+CA2011_CW_SN_rep3	Crown width North South
+CA2011_CW_SN_rep4	Crown width North South
+CL2012_DBH_rep1	DBH
+CL2012_DBH_rep3	DBH
+CL2012_NonCoppice_DBH_rep1	DBH
+CL2012_NonCoppice_DBH_rep2	DBH
+CL2012_NonCoppice_DBH_rep3	DBH
+CL2013_NonCoppice_DBH_rep1	DBH
+CL2013_NonCoppice_DBH_rep2	DBH
+CL2013_NonCoppice_DBH_rep3	DBH
+CL2014_NonCoppice_DBH_rep1	DBH
+CL2014_NonCoppice_DBH_rep2	DBH
+CL2014_NonCoppice_DBH_rep3	DBH
+CO2012_DBH_rep1	DBH
+CO2012_DBH_rep2	DBH
+CO2012_DBH_rep3	DBH
+CO2013_DBH_rep1	DBH
+CO2013_DBH_rep2	DBH
+CO2013_DBH_rep3	DBH
+CA2012_DBH_rep1	DBH
+CA2012_DBH_rep2	DBH
+CA2012_DBH_rep3	DBH
+CA2012_DBH_rep4	DBH
+CO2010_D20_rep1	Diameter at 20 cm
+CO2010_D20_rep2	Diameter at 20 cm
+CO2010_D20_rep3	Diameter at 20 cm
+CO2015_D20_rep1	Diameter at 20 cm
+CO2015_D20_rep2	Diameter at 20 cm
+CA2011_D20_rep1	Diameter at 20 cm
+CA2011_D20_rep2	Diameter at 20 cm
+CA2011_D20_rep3	Diameter at 20 cm
+CA2011_D20_rep4	Diameter at 20 cm
+CL2015_Epicormic_branching	Epicormic branching
+CL2012_BLUPs_Glucose_release	Glucose release
+CA2013_Pretreated_Glucose_release	Glucose release
+CL2012_Leaf_Green_Weight_rep1	Green leaf weight
+CL2012_Leaf_Green_Weight_rep2	Green leaf weight
+CL2012_HHB_rep1	Height to the highest branch
+CL2012_HHB_rep3	Height to the highest branch
+CL2014_NonCoppice_Height_to_live_branch_rep1	Height to the highest branch
+CL2014_NonCoppice_Height_to_live_branch_rep2	Height to the highest branch
+CL2014_NonCoppice_Height_to_live_branch_rep3	Height to the highest branch
+CA2011_Height_to_first_branch_rep1	Height to the highest branch
+CA2011_Height_to_first_branch_rep2	Height to the highest branch
+CA2011_Height_to_first_branch_rep3	Height to the highest branch
+CA2011_Height_to_first_branch_rep4	Height to the highest branch
+CL2011_Lenticle_rep1	Lenticel
+CL2011_Lenticle_rep2	Lenticel
+CA2011_Lenticle_rep1	Lenticel
+CA2011_Lenticle_rep2	Lenticel
+CA2011_Lenticle_rep3	Lenticel
+CA2011_Lenticle_rep4	Lenticel
+CL2012_BLUPs_Lignin	Lignin content
+CL2012_Cookie_longititudinal_shrinkage	Longitudinal shrinkage
+CO2010_Cookies_longititudinal_shrinkage_rep1	Longitudinal shrinkage
+CO2010_Cookies_longititudinal_shrinkage_rep2	Longitudinal shrinkage
+CA2013_longititudinal_shrinkage_rep1	Longitudinal shrinkage
+CA2013_longititudinal_shrinkage_rep2	Longitudinal shrinkage
+CL2011_Rust_rep1	Melampsora
+CL2011_Rust_rep2	Melampsora
+CL2011_Rust_rep3	Melampsora
+CL2012_Rust_rep1	Melampsora
+CL2012_Rust_rep2	Melampsora
+CL2012_Rust_rep3	Melampsora
+CL2013_Rust_rep1	Melampsora
+CL2013_Rust_rep2	Melampsora
+CL2013_Rust_rep3	Melampsora
+CL2014_Coppice_Rust_rep1	Melampsora
+CL2014_Coppice_Rust_rep3	Melampsora
+CL2014_NonCoppice_Rust_rep1	Melampsora
+CL2014_NonCoppice_Rust_rep2	Melampsora
+CL2014_NonCoppice_Rust_rep3	Melampsora
+CL2009_Rust_rep1	Melampsora
+CL2009_Rust_rep2	Melampsora
+CL2009_Rust_rep3	Melampsora
+CO2015_MiteBronzing_rep1	Mite damage
+CO2015_MiteBronzing_rep2	Mite damage
+CO2015_MiteBronzing_rep3	Mite damage
+CA2012_Number_of_Side_Branches_rep2	Number of side branches ##
+CO2015_No_of_stems_rep2	Number of stems
+CL2012_Petiole_Length_rep1	Petiole length
+CL2012_Petiole_Length_rep2	Petiole length
+CL2012_Petiole_Max_Diameter_rep1	Petiole maximum diameter
+CL2012_Petiole_Max_Diameter_rep2	Petiole maximum diameter
+CL2012_Petiole_Min_Diameter_rep1	Petiole minimum diameter
+CL2012_Petiole_Min_Diameter_rep2	Petiole minimum diameter
+CL2012_Cookie_radial_shrinkage	Radial shrinkage
+CO2010_Cookies_radial_shrinkage_rep1	Radial shrinkage
+CO2010_Cookies_radial_shrinkage_rep2	Radial shrinkage
+CA2013_radial_shrinkage_rep1	Radial shrinkage
+CA2013_radial_shrinkage_rep2	Radial shrinkage
+CL2012_VOLE_rep1	Rodent damage
+CL2012_VOLE_rep3	Rodent damage
+CL2012_BLUPs_S/G	S/G ratio
+CL2015_slug_browsing	Slug browsing
+CL2012_Stem_Weight-to-Volume_ratio_rep1	Stem density
+CL2012_Stem_Weight-to-Volume_ratio_rep3	Stem density
+CL2012_Stem_Fresh_Volume_rep1	Stem fresh volume
+CL2012_Stem_Fresh_Weight_rep1	Stem fresh weight
+CL2012_Stem_Fresh_Weight_rep3	Stem fresh weight
+CL2012_Stem_Fresh_Volume_rep3	Stem fresh weight
+CL2012_Cookie_Glucose_release_rep1	Stem glucose release
+CL2012_Cookie_Glucose_release_rep3	Stem glucose release
+CL2012_Core_Glucose_release	Stem glucose release
+CL2012_Cookie_Lignin_rep1	Stem lignin content
+CL2012_Cookie_Lignin_rep3	Stem lignin content
+CL2012_Core_Lignin	Stem lignin content
+CO2010_Lignin	Stem lignin content
+CA2013_Lignin	Stem lignin content
+CL2012_Cookie_miosture_content_wood	Stem moisture content
+CO2010_Cookies_miosture_content_wood_rep1	Stem moisture content
+CO2010_Cookies_miosture_content_bark_rep1	Stem moisture content
+CO2010_Cookies_miosture_content_wood_rep2	Stem moisture content
+CA2013_miosture_content_wood_rep1	Stem moisture content
+CA2013_miosture_content_wood_rep2	Stem moisture content
+CL2012_Cookie_S/G_rep1	Stem S/G ratio
+CL2012_Cookie_S/G_rep3	Stem S/G ratio
+CL2012_Core_S/G	Stem S/G ratio
+CO2010_S/Gratio	Stem S/G ratio
+CA2013_S/G	Stem S/G ratio
+CL2012_Cookie_specific_gravity	Stem specific gravity
+CO2010_Cookies_specific_gravity_rep1	Stem specific gravity
+CO2010_Cookies_specific_gravity_rep2	Stem specific gravity
+CA2013_specific_gravity_rep1	Stem specific gravity
+CA2013_specific_gravity_rep2	Stem specific gravity
+CA2011_Stem_Volume_to_Crown_Area_Ratio_rep1	Stem volum to crown area
+CA2011_Stem_Volume_to_Crown_Area_Ratio_rep2	Stem volum to crown area
+CA2011_Stem_Volume_to_Crown_Area_Ratio_rep3	Stem volum to crown area
+CA2011_Stem_Volume_to_Crown_Area_Ratio_rep4	Stem volum to crown area
+CL2012_NonCoppice_StemVolume_rep1	Stem volume
+CL2012_NonCoppice_StemVolume_rep2	Stem volume
+CL2012_NonCoppice_StemVolume_rep3	Stem volume
+CL2013_NonCoppice_StemVolume_rep1	Stem volume
+CL2013_NonCoppice_StemVolume_rep2	Stem volume
+CL2013_NonCoppice_StemVolume_rep3	Stem volume
+CO2010_Stem_Volume_rep1	Stem volume
+CO2010_Stem_Volume_rep2	Stem volume
+CO2010_Stem_Volume_rep3	Stem volume
+CO2012_Stem_Vol_rep1	Stem volume
+CO2012_Stem_Vol_rep2	Stem volume
+CO2012_Stem_Vol_rep3	Stem volume
+CO2013_Stem_Vol_rep1	Stem volume
+CO2013_Stem_Vol_rep2	Stem volume
+CO2013_Stem_Vol_rep3	Stem volume
+CO2015_Stem_Vol_rep1	Stem volume
+CO2015_Stem_Vol_rep2	Stem volume
+CA2011_Stem_Volume_rep1	Stem volume
+CA2011_Stem_Volume_rep2	Stem volume
+CA2011_Stem_Volume_rep3	Stem volume
+CA2011_Stem_Volume_rep4	Stem volume
+CA2012_Stem_Vol_rep1	Stem volume
+CA2012_Stem_Vol_rep2	Stem volume
+CA2012_Stem_Vol_rep3	Stem volume
+CA2012_Stem_Vol_rep4	Stem volume
+CL2015_Wound_Healing	Stem wound closure
+CL2012_Cookie_Xylose_release_rep1	stem xylose release
+CL2012_Cookie_Xylose_release_rep3	stem xylose release
+CL2012_Core_Xylose_release	stem xylose release
+CL2012_Cookie_combined_sugar_release_rep1	Sugar release
+CL2012_Cookie_combined_sugar_release_rep3	Sugar release
+CL2012_Core_combined_sugar_release	Sugar release
+CL2012_BLUPs_Combined_Sugar_release	Sugar release
+CA2013_Pretreated_Combined_sugar_release	Sugar release
+CA2013_NoPretreated_Glucose_release	Sugar release
+CA2013_NoPretreated_Xylose_release	Sugar release
+CA2013_NoPretreated_Combined_sugar_release	Sugar release
+CL2012_SylBr_rep1	sylleptic branching
+CL2012_SylBr_rep3	sylleptic branching
+CL2012_NonCoppice_SYL BR_rep1	Sylleptic branching
+CL2012_NonCoppice_SYL BR_rep2	Sylleptic branching
+CL2012_NonCoppice_SYL BR_rep3	Sylleptic branching
+CO2010_SylBr_rep1	sylleptic branching
+CO2010_SylBr_rep2	sylleptic branching
+CO2010_SylBr_rep3	sylleptic branching
+CO2012_SylBr_rep1	sylleptic branching
+CO2012_SylBr_rep2	sylleptic branching
+CO2012_SylBr_rep3	sylleptic branching
+CO2013_SylBr_rep1	sylleptic branching
+CO2013_SylBr_rep2	sylleptic branching
+CO2013_SylBr_rep3	sylleptic branching
+CA2011_number_of_sylleptic_branches_rep1	Sylleptic branching
+CA2011_number_of_sylleptic_branches_rep2	Sylleptic branching
+CA2011_number_of_sylleptic_branches_rep3	Sylleptic branching
+CA2011_number_of_sylleptic_branches_rep4	Sylleptic branching
+CA2012_SylBr_rep1	sylleptic branching
+CA2012_SylBr_rep2	sylleptic branching
+CA2012_SylBr_rep3	sylleptic branching
+CA2012_SylBr_rep4	sylleptic branching
+CA2012_Tertiary_Branch_rep2	Tertiary branching
+CA2011_Form_rep1	Tree form (shrub like / tree like)
+CA2011_Form_rep2	Tree form (shrub like / tree like)
+CA2011_Form_rep3	Tree form (shrub like / tree like)
+CA2011_Form_rep4	Tree form (shrub like / tree like)
+CL2010_Height_rep1	Tree height
+CL2010_Height_rep2	Tree height
+CL2011_Height_rep1	Tree height
+CL2011_Height_rep2	Tree height
+CL2012_Ht_rep1	Tree height
+CL2012_Ht_rep3	Tree height
+CL2012_NonCoppice_Ht_rep1	Tree height
+CL2012_NonCoppice_Ht_rep2	Tree height
+CL2012_NonCoppice_Ht_rep3	Tree height
+CL2013_NonCoppice_Height_rep1	Tree height
+CL2013_NonCoppice_Height_rep2	Tree height
+CL2013_NonCoppice_Height_rep3	Tree height
+CO2009_Height_rep1	Tree height
+CO2009_Height_rep2	Tree height
+CO2009_Height_rep3	Tree height
+CO2010_Height_rep1	Tree height
+CO2010_Height_rep2	Tree height
+CO2010_Height_rep3	Tree height
+CO2012_Height_rep1	Tree height
+CO2012_Height_rep2	Tree height
+CO2012_Height_rep3	Tree height
+CO2013_Height_rep1	Tree height
+CO2013_Height_rep2	Tree height
+CO2013_Height_rep3	Tree height
+CO2015_Height_rep1	Tree height
+CO2015_Height_rep2	Tree height
+CA2009_Height_rep1	Tree height
+CA2009_Height_rep2	Tree height
+CA2009_Height_rep3	Tree height
+CA2009_Height_rep4	Tree height
+CA2010_Height_rep1	Tree height
+CA2010_Height_rep2	Tree height
+CA2010_Height_rep3	Tree height
+CA2010_Height_rep4	Tree height
+CA2011_Height_rep1	Tree height
+CA2011_Height_rep2	Tree height
+CA2011_Height_rep3	Tree height
+CA2011_Height_rep4	Tree height
+CA2012_Height_rep1	Tree height
+CA2012_Height_rep2	Tree height
+CA2012_Height_rep3	Tree height
+CA2012_Height_rep4	Tree height
+CL2013_Venturia_rep1	Venturia #
+CL2013_Venturia_rep2	Venturia #
+CL2013_Venturia_rep3	Venturia #
+CL2012_BLUPs_Xylose_release	Xylose release
+CA2013_Pretreated_Xylose_release	Xylose release
+CL2015_wet	wet #
+CL2015_cork	cork #
+CL2015_smooth	smooth #
+CO2010_Clear_Stem_rep1	clear stem #
+CO2010_Clear_Stem_rep2	clear stem #
+CO2010_Clear_Stem_rep3	clear stem #
